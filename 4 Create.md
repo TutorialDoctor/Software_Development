@@ -251,5 +251,5 @@ Play()
 ![tap](https://cloud.githubusercontent.com/assets/12942803/9608744/d67186e8-509d-11e5-96dc-942de3dd9137.jpg)
 ![tow](https://cloud.githubusercontent.com/assets/12942803/9608743/d6717004-509d-11e5-8bed-ec9ee2729ea8.jpg)
 ![wal](https://cloud.githubusercontent.com/assets/12942803/9608742/d66f383e-509d-11e5-905a-0d850052fd3e.jpg)
-*This are was made with the free [Inkpad](https://itunes.apple.com/us/app/inkpad/id400083414?mt=8) app for IOS
+*This are was made with the free [Inkpad](https://itunes.apple.com/us/app/inkpad/id400083414?mt=8) app for IOS*
 
