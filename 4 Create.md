@@ -170,7 +170,7 @@ if player.isApproaching(enemy):
 		enemy.jump()
 </pre>
 ![diagram](https://cloud.githubusercontent.com/assets/12942803/9608729/d655c43a-509d-11e5-867e-0d4812784d54.jpg)
-*This is a working prototype made with Gamepress*
+*This is a working prototype made with [Gamepress](http://www.gamepressapp.com)*
 
 
 ## Rock, Paper, Scissors
