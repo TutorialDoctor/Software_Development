@@ -21,6 +21,8 @@ by: The Tutorial Doctor
 	- [Atom](https://atom.io)
 	- [Brackets](http://brackets.io)
 	- [Lightable](http://lighttable.com)
+	- [Pythonista](http://omz-software.com/pythonista/)(IOS)
+	- [Editorial](http://omz-software.com/editorial/)(IOS)
 
 ## Art tools (2d & 3d)
 - 2D
