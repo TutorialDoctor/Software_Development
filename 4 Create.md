@@ -79,7 +79,7 @@ The two most basic skills you should master is to be able to draw a **perfect li
 
 Sketch the idea first. Compose the image using primitive shapes (square, triangle, circle). Refine the primitive shapes to get an accurate silhouette. Give a base color to the silhouette (usually the mid-tone). Add shapes for the highlights and shadows. Shade/blend between the mid-tones, highlights and shadows. Lastly, add details. Add only the information you need to convey the image. Nothing more!
 
-![](images/rock.jpg)
+![rock](https://cloud.githubusercontent.com/assets/12942803/9608739/d66a1214-509d-11e5-8533-e7b0a454815a.jpg)
 
 ### 3D Art Process
 - **Sketch** (Describe)
@@ -245,7 +245,6 @@ Play()
 ![lamp](https://cloud.githubusercontent.com/assets/12942803/9608736/d66326d4-509d-11e5-9d11-f75e94889909.jpg)
 ![lg](https://cloud.githubusercontent.com/assets/12942803/9608738/d6653a00-509d-11e5-9404-c30c77dad62d.jpg)
 ![me](https://cloud.githubusercontent.com/assets/12942803/9608741/d66cb67c-509d-11e5-9d9a-5c8e888365aa.jpg)
-![rock](https://cloud.githubusercontent.com/assets/12942803/9608739/d66a1214-509d-11e5-8533-e7b0a454815a.jpg)
 ![sho](https://cloud.githubusercontent.com/assets/12942803/9608740/d66c6820-509d-11e5-9438-d2d5ac8e6514.jpg)
 ![tap](https://cloud.githubusercontent.com/assets/12942803/9608744/d67186e8-509d-11e5-96dc-942de3dd9137.jpg)
 ![tow](https://cloud.githubusercontent.com/assets/12942803/9608743/d6717004-509d-11e5-8bed-ec9ee2729ea8.jpg)
