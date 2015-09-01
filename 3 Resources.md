@@ -29,9 +29,9 @@ by: The Tutorial Doctor
 	- [Gimp](http://www.gimp.org) - Raster Art (Desktop)
 	- [Inkscape](https://inkscape.org/en/) - Vecotr Art (Desktop)
 	- [Inkpad](https://itunes.apple.com/us/app/inkpad/id400083414?mt=8) - Vector Art (IOS)
-	- [Pixelmator](http://www.pixelmator.com) $ - Raster Art(IOS)
-	- [Touchdraw](http://elevenworks.com/touchdraw/ipad/) $ - Vecotr Art (IOS/OSX)
-	- [Procreate](http://procreate.si) $ (IOS)
+	- [Pixelmator](http://www.pixelmator.com) - Raster Art(IOS) $
+	- [Touchdraw](http://elevenworks.com/touchdraw/ipad/) - Vecotr Art (IOS/OSX) $
+	- [Procreate](http://procreate.si) (IOS) $
 - 3D
 	- [Sketchup](http://www.sketchup.com)
 	- [Blender](http://www.blender.org)
@@ -45,7 +45,7 @@ by: The Tutorial Doctor
 - [GameMaker](http://www.yoyogames.com/studio)
 - [Godot](http://www.godotengine.org/wp/)
 - [Unity](https://unity3d.com)
-- [Unreal](https://www.unrealengine.com) ?$
+- [Unreal](https://www.unrealengine.com) $ (5% of royalties)
 
 ## Languages
 - [C#](https://www.youtube.com/watch?v=lisiwUZJXqQ&index=21&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY)
