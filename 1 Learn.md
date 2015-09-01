@@ -510,3 +510,5 @@ ___
 7. For complicated tasks, or for more efficient programs, you could try searching for **libraries/modules** online, and import them for your own use.
 
 Note: Throughout the process  I use the **print** function to test stuff.
+
+To get started with python, check out my [Python Syntax](https://gist.github.com/TutorialDoctor/dda76e58fc43d7375856) file.
