@@ -169,41 +169,9 @@ if player.isApproaching(enemy):
 	if player.speed > 8:
 		enemy.jump()
 </pre>
-
-![](images/diagram.jpg)
+![diagram](https://cloud.githubusercontent.com/assets/12942803/9608729/d655c43a-509d-11e5-867e-0d4812784d54.jpg)
 *This is a working prototype made with Gamepress*
 
-## Art
-
-2D to 3D
-![](images/2d&3d.jpg)
-
-Bridge
-![](images/Image.jpg)
-
-Lamp
-![](images/lamp.jpg)
-
-Tapestry
-![](images/tap.jpg)
-
-Towers
-![](images/tow.jpg)
-
-Wallet
-![](images/wal.jpg)
-
-Door
-![](images/dr.jpg)
-
-Shoe
-![](images/sho.jpg)
-
-Boxes
-![](images/bx.jpg)
-
-Boxes and Spheres
-![](images/bxS.jpg)
 
 ## Rock, Paper, Scissors
 <pre>
@@ -262,20 +230,25 @@ def Play():
 Play()
 </pre>
 
-Finger
-![](images/fin1.jpg)
 
-Hand
-![](images/fin2.jpg)
+## Art
 
-Legs
-![](images/lg.jpg)
+![2d 3d](https://cloud.githubusercontent.com/assets/12942803/9608727/d6519248-509d-11e5-8c20-071a7c56b38f.jpg)
+![bx](https://cloud.githubusercontent.com/assets/12942803/9608728/d655abd0-509d-11e5-9936-cc6a13805384.jpg)
+![bxs](https://cloud.githubusercontent.com/assets/12942803/9608731/d657523c-509d-11e5-9ed1-2c226185b1e5.jpg)
+![bxsl](https://cloud.githubusercontent.com/assets/12942803/9608730/d656ff30-509d-11e5-9386-10a2410c20f7.jpg)
+![cr](https://cloud.githubusercontent.com/assets/12942803/9608732/d65a180a-509d-11e5-8c08-722e8201e4f1.jpg)
+![dr](https://cloud.githubusercontent.com/assets/12942803/9608733/d65b2e0c-509d-11e5-940e-6218107ba940.jpg)
+![fin1](https://cloud.githubusercontent.com/assets/12942803/9608734/d65ef44c-509d-11e5-9c56-712c3e963c6a.jpg)
+![fin2](https://cloud.githubusercontent.com/assets/12942803/9608735/d6626fdc-509d-11e5-8223-3b8e792e4eb5.jpg)
+![image](https://cloud.githubusercontent.com/assets/12942803/9608737/d6649776-509d-11e5-80b8-0eaf9bacdd22.jpg)
+![lamp](https://cloud.githubusercontent.com/assets/12942803/9608736/d66326d4-509d-11e5-9d11-f75e94889909.jpg)
+![lg](https://cloud.githubusercontent.com/assets/12942803/9608738/d6653a00-509d-11e5-9404-c30c77dad62d.jpg)
+![me](https://cloud.githubusercontent.com/assets/12942803/9608741/d66cb67c-509d-11e5-9d9a-5c8e888365aa.jpg)
+![rock](https://cloud.githubusercontent.com/assets/12942803/9608739/d66a1214-509d-11e5-8533-e7b0a454815a.jpg)
+![sho](https://cloud.githubusercontent.com/assets/12942803/9608740/d66c6820-509d-11e5-9438-d2d5ac8e6514.jpg)
+![tap](https://cloud.githubusercontent.com/assets/12942803/9608744/d67186e8-509d-11e5-96dc-942de3dd9137.jpg)
+![tow](https://cloud.githubusercontent.com/assets/12942803/9608743/d6717004-509d-11e5-8bed-ec9ee2729ea8.jpg)
+![wal](https://cloud.githubusercontent.com/assets/12942803/9608742/d66f383e-509d-11e5-905a-0d850052fd3e.jpg)
 
-Car
-![](images/cr.jpg)
 
-Boxes
-![](images/bxsl.jpg)
-
-Me
-![](images/me.jpg)
