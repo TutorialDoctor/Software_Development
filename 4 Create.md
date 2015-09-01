@@ -117,10 +117,8 @@ You will run into problems. Two types of problem solving are:
 
 - Top-down
 - Bottom-up
-- 
-<iframe width="420" height="345"
-src="http://www.youtube.com/watch?v=SVVz6Yy9uhAI">
-</iframe>
+
+Watch the video [here](http://www.youtube.com/watch?v=SVVz6Yy9uhAI)
 
 # Examples
 ## Enemy AI 
