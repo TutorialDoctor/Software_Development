@@ -27,10 +27,10 @@ by: The Tutorial Doctor
 ## Art tools (2d & 3d)
 - 2D
 	- [Gimp](http://www.gimp.org) - Raster Art (Desktop)
-	- [Inkscape](https://inkscape.org/en/) - Vecotr Art(Desktop)
-	- [Inkpad](https://itunes.apple.com/us/app/inkpad/id400083414?mt=8) - Vector Art(IOS)
+	- [Inkscape](https://inkscape.org/en/) - Vecotr Art (Desktop)
+	- [Inkpad](https://itunes.apple.com/us/app/inkpad/id400083414?mt=8) - Vector Art (IOS)
 	- [Pixelmator](http://www.pixelmator.com) $ - Raster Art(IOS)
-	- [Touchdraw](http://elevenworks.com/touchdraw/ipad/) $ - Vecotr Art(IOS/OSX)
+	- [Touchdraw](http://elevenworks.com/touchdraw/ipad/) $ - Vecotr Art (IOS/OSX)
 	- [Procreate](http://procreate.si) $ (IOS)
 - 3D
 	- [Sketchup](http://www.sketchup.com)
