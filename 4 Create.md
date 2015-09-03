@@ -232,8 +232,8 @@ def Play():
 Play()
 </pre>
 
-[Procedural Level Generation](https://gist.github.com/TutorialDoctor/3122f2ce5b211c9afce1)
-[AI chatbot](https://gist.github.com/TutorialDoctor/506baac02e908cfed802)
+- [Procedural Level Generation](https://gist.github.com/TutorialDoctor/3122f2ce5b211c9afce1)
+- [AI chatbot](https://gist.github.com/TutorialDoctor/506baac02e908cfed802)
 
 
 
