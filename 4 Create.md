@@ -92,6 +92,7 @@ Sketch the idea first. Compose the image using primitive shapes (square, triangl
 
 Sketch the idea first (or find **reference photos**). Compose the model using **primitive shapes** (cube, pyramid, cylinder, sphere). **Refine** the primitive shapes to get an accurate mesh. **UV unwrap** the mesh. Give a **base color** (diffuse color) to the mesh (usually the mid-tone).  Create the **materials and textures**. **Rig and animate** the mesh. **Light** the model. **Render** the model. **Post-processing** (optional). Add only the information you need to convey the model. Nothing more! Too much detail, if it is the wrong detail, is bad.
 
+[3D Modeling Basics](https://www.youtube.com/user/GuerrillaCG)
 [Remaking the Art of Halo 2 for Xbox](https://www.youtube.com/watch?v=N6pdeECc5d4)
 
 ### Animation
