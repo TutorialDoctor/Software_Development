@@ -27,11 +27,11 @@ by: The Tutorial Doctor
 ## Art tools (2d & 3d)
 - 2D
 	- [Gimp](http://www.gimp.org) - Raster Art (Desktop)
-	- [Inkscape](https://inkscape.org/en/) - Vecotr Art (Desktop)
+	- [Inkscape](https://inkscape.org/en/) - Vector Art (Desktop)
 	- [Inkpad](https://itunes.apple.com/us/app/inkpad/id400083414?mt=8) - Vector Art (IOS)
 	- [Piskel](http://www.piskelapp.com) - Pixel Art
 	- [Pixelmator](http://www.pixelmator.com) - Raster Art (IOS) $
-	- [Touchdraw](http://elevenworks.com/touchdraw/ipad/) - Vecotr Art (IOS/OSX) $
+	- [Touchdraw](http://elevenworks.com/touchdraw/ipad/) - Vector Art (IOS/OSX) $
 	- [Procreate](http://procreate.si) (IOS) $
 - 3D
 	- [Sketchup](http://www.sketchup.com)
@@ -64,16 +64,15 @@ by: The Tutorial Doctor
 - [Platforms]
 
 ## Educational Resources
-- youtube
-	- [Derek banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
-	- [Microsoft virtual academy](http://www.microsoftvirtualacademy.com)
-	- [Carl Herold](https://www.youtube.com/watch?v=_T-Bbn-tWK4)
-	- [Tuts +](http://gamedevelopment.tutsplus.com)
+- [Derek banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
+- [Microsoft virtual academy](http://www.microsoftvirtualacademy.com)
+- [Carl Herold](https://www.youtube.com/watch?v=_T-Bbn-tWK4)
+- [Tuts +](http://gamedevelopment.tutsplus.com)
+- [Codecademy](https://www.codecademy.com/learn)
 
-## Sites
+## Community Sites
 - [Github](https://github.com)
 - [Stack overflow](http://stackoverflow.com)
-- [Codecademy](https://www.codecademy.com/learn)
 - [GameDev.net](http://www.gamedev.net/page/index.html)
 - [mapcore.org](https://www.mapcore.org)
 - [CG Society](http://www.cgsociety.org)
