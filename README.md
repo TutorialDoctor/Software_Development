@@ -14,7 +14,7 @@ First you will **learn** how to program using the **Python** (version **2.7**) l
 
 This is intended for beginners who want to dive into the software development industry.
 
-This is a a work in progress. Hope it helps.
+This is a work in progress. Hope it helps.
 
 I will be adding Python 3 compatability. 
 
