@@ -29,6 +29,7 @@ by: The Tutorial Doctor
 	- [Gimp](http://www.gimp.org) - Raster Art (Desktop)
 	- [Inkscape](https://inkscape.org/en/) - Vecotr Art (Desktop)
 	- [Inkpad](https://itunes.apple.com/us/app/inkpad/id400083414?mt=8) - Vector Art (IOS)
+	- [Piskel](http://www.piskelapp.com) - Pixel Art
 	- [Pixelmator](http://www.pixelmator.com) - Raster Art(IOS) $
 	- [Touchdraw](http://elevenworks.com/touchdraw/ipad/) - Vecotr Art (IOS/OSX) $
 	- [Procreate](http://procreate.si) (IOS) $
