@@ -8,6 +8,7 @@ It is divided into 4 sections:
 - [Play](https://github.com/TutorialDoctor/Software_Development/blob/master/2%20Play.md)
 - [Resources](https://github.com/TutorialDoctor/Software_Development/blob/master/3%20Resources.md)
 - [The Process](https://github.com/TutorialDoctor/Software_Development/blob/master/4%20The%20Process.md)
+- **Create**
 
 First you will **learn** how to program using the **Python** (version **2.7**) language. Then you will **play** with various programs. Next you get links to **resources**. Lastly you **create** a video game using the Godot game engine API.
 
