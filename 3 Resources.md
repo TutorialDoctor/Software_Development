@@ -23,6 +23,7 @@ by: The Tutorial Doctor
 	- [Lightable](http://lighttable.com)
 	- [Pythonista](http://omz-software.com/pythonista/)(IOS)
 	- [Editorial](http://omz-software.com/editorial/)(IOS)
+	- [Codea](http://twolivesleft.com/Codea/) (IOS)
 
 ## Art tools (2d & 3d)
 - 2D
