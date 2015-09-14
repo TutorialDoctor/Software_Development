@@ -1,4 +1,4 @@
-**This is a summary of the game design document for the [Arcana](http://marceltau.com/files/Arcana_Project_GDD.pdf) project.**
+**This is an outline of the game design document for the [Arcana](http://marceltau.com/files/Arcana_Project_GDD.pdf) project.**
 
 # Table of Contents: <a id="TOC"></a>
 
