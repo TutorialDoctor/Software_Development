@@ -1,6 +1,8 @@
 # Three Key Facets
 ___
 
+There are three key facets recur in math, science, art, social studies, language arts, sports, and other subjects.
+
 # Point, Line, Shape, Circle
 
 ### Point Basics
