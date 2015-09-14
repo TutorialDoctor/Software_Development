@@ -110,6 +110,8 @@ If you want realism, just be more **accurate**.
 ![wal](https://cloud.githubusercontent.com/assets/12942803/9608742/d66f383e-509d-11e5-905a-0d850052fd3e.jpg)
 *This are was made with the free [Inkpad](https://itunes.apple.com/us/app/inkpad/id400083414?mt=8) app for IOS*
 
+# Additional Info
+
 [Learn more about points, lines, and shapes](https://github.com/TutorialDoctor/Software_Development/blob/master/More-Info/Point,%20Line,%20Shape,%20Circle.md)
 
 [Learn more about animation](https://github.com/TutorialDoctor/Software_Development/blob/master/More-Info/Animation%20Process.md)
