@@ -1,3 +1,33 @@
+<p style="
+color:;
+text-align:center;
+font-size:">
+Tuesday  Sep 1, 2015
+</p>
+<p style="
+color:;
+text-align:center;
+font-size:">
+by: The Tutorial Doctor
+</p>
+
+# Game Development Process 2 (Rough Draft)
+Saturday August 22, 2015 12:39:49 AM
+
+By the Tutorial Doctor
+
+# The Summarized Process
+The main process for creating any product is:
+
+- Describe
+- Prototype
+- Refine
+- Polish
+- Package
+
+First, describe the product. The betC
+ter the description, the easier it is to **stay true** to the idea. Create a prototype **Don't deviate** from the working prototype. Refine the product. Refining is the longest stage (**tweaking**). Polish the product. The polish stage shouldn't add new features, but **enhance** existing ones. Package your product in an **easy to access and use** way (consider this in the beginning).
+
 ## The Code/Development Process
 ___
 My general process for programming software is:
