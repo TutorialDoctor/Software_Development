@@ -2,7 +2,7 @@
 This repository serves as an introduction to software/game development.
 It uses [Python](https://www.python.org) as a learning language, the [Brackets](http://brackets.io) editor for learning web development, and the [Godot](http://www.godotengine.org/wp/) game engine.
 
-It is divided into 4 sections:
+It is divided into 6 sections:
 
 - [Learn](https://github.com/TutorialDoctor/Software_Development/blob/master/1%20Learn.md)
 - [Play](https://github.com/TutorialDoctor/Software_Development/blob/master/2%20Play.md)
