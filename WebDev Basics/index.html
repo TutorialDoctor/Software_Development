@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<!--
+HTML stands for HYPERTEXT MARKUP LANGUAGE. A markup language is a language used to annotate how text should be formatted.
+Editors who edit books go through the text of a book and add annotations (i.e. this in italics, that in bold). They make marks on the paper to let the writer know how the text will/should be formatted. Html does the same for websites. Words are surrounded by tags, which signify how they should be formatted. These annotations are stored in a .html file, and can be read by websites. Html is the content of the website.
+
+
+Once the website text is added and formatted with html, it is then styled with CSS. CSS stands for CASCADING STYLE SHEET. All of the pretty colors and neat layout of the website is added with CSS. These styles are either saved in a .css file, or are added directly in the .html file. CSS is the style of the website.
+
+
+After the text is formatted and styled, you can then make the website interactive. Cool animations and effects can be added using a probramming langauge called Javascript. Not to be confused with JAVA, Javascript is a lightweight programming language for web development. These scripts are either saved in a .js file, or directly in the .html file. Javascript is the interactivity of the website.
+
+
+There are two parts to an .html document. There is a head and a body. 
+
+
+The head of the html usually holds the brainwork of the document. The head is where the document is setup. Here you can link to your .css and .js files. You can give the website a title, or make sure the browser knows what lanauge it should be in. Often you see a .html file letting the browser know what character set (charset) should be used.
+
+
+The body holds the content of the document. Paragraphs, headings, lists, forms, buttons, etc all go here.
+
+
+To format a text, wrap the text in a tag like <tag>this</tag>.
+
+
+Most tags have to be opened (<>) and closed (</>) to denote where the formatting begins and ends.
+
+
+Some tags are self-closing, and don't need an end tag. They are optionally denoted as self-closing like <tag/>
+
+
+For example, to make text bold wrap it in a bold (<b>) tag like this:
+
+
+<b>This text is bold</b>
+
+
+The break tag <br/> is a self-closing tag which adds a tab to the document (starts a new line)
+---------------------------------------------------------------->
+
+
+<!--A most basic website looks like:
+<html>
+    <head>
+        <title>The Title</title>
+    </head>
+    
+    <body>
+        Welcome to my website!
+    </body>
+</html>
+-->
+
+
+<!--Below is an example of a better basic website: -->
+<!-------------------------------------------------------------->
+<!--Setting up the language of the html file, and opening the html tag-->
+<html lang='en'>
+<!--Opening the head tag-->
+<head>
+    <!--Denoting the character set-->
+	<meta charset='UTF-8'/>
+    
+    <!-- Linking to the style sheet we will use-->
+	<link href='style.css' rel='stylesheet'/>
+    
+    <!--Linking to the javascript file we will use-->
+	<script src='script.js' type='text/javascript'></script>
+    
+    <!--How about a title?-->
+    <title>Web Development Basics</title>
+<!--Closing the head tag-->
+</head>
+
+    
+<!--This is the body of the html file-->
+<body>
+    <!--The text below is a paragraph <p>-->
+	<p>This tutorial was made by the Tutorial Doctor.
+    The .css file styles all paragraph tags as having a green color, and a darkslategrey background color. Go check it out!
+    <!--Close the paragraph tag-->
+    </p>
+    
+    <!--If it is not wrapped in a tag, it is just regular text-->
+    Follow me on Twitter! <i>@TutorialDoctor</i>
+    <br>
+    
+    <h1> This is an H1 heading. H2 and H3 headings are subsequently smaller</h1>
+    
+    <!--For fun, this is how you load an image-->
+    <image src="screenshot.png" width=75%/>
+<!--Remember to close the body-->
+</body>
+
+<!--And we have to close the html tag-->
+</html>
+<!-------------------------------------------------------------->
