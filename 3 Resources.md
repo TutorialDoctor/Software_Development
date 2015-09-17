@@ -20,6 +20,7 @@ by: The Tutorial Doctor
 	- [QT creator](http://www.qt.io/ide/)
 	- [Atom](https://atom.io)
 	- [Brackets](http://brackets.io)
+	- [Code](https://code.visualstudio.com)
 	- [Lightable](http://lighttable.com)
 	- [Pythonista](http://omz-software.com/pythonista/)(IOS)
 	- [Editorial](http://omz-software.com/editorial/)(IOS)
