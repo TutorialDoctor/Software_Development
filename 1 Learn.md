@@ -465,6 +465,7 @@ An interpreted programming language is one that is not translated, but interpret
 - Java
 - Python
 - Ruby
+- Javascript
 
 ## Operating System
 -  An **Operating System** is a **big program** that **runs other programs** like:
