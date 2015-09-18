@@ -66,11 +66,16 @@ by: The Tutorial Doctor
 - [Platforms]
 
 ## Educational Resources
+### Programming
 - [Derek banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
 - [Microsoft virtual academy](http://www.microsoftvirtualacademy.com)
 - [Carl Herold](https://www.youtube.com/watch?v=_T-Bbn-tWK4)
 - [Tuts +](http://gamedevelopment.tutsplus.com)
 - [Codecademy](https://www.codecademy.com/learn)
+
+### Art
+- [Will Terry](https://www.youtube.com/watch?v=21iqgxVrrrs&list=PL0455BA1360AC306D&index=1)
+- [Chris Hart](https://www.youtube.com/user/chrishartbooks)
 
 ## Community Sites
 - [Github](https://github.com)
