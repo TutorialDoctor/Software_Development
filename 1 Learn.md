@@ -459,10 +459,10 @@ A compiled programming language is a program that gets compiled (into machine la
 - Objective C
 - Pascal
 - COBOL
+- Java
 
 ### INTERPRETED LANGUAGES
 An interpreted programming language is one that is not translated, but interpreted, by means of an **interpreter**. The interpreter executes the program directly, without having to translate it to machine code.
-- Java
 - Python
 - Ruby
 - Javascript
