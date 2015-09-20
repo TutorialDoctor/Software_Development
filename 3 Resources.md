@@ -42,6 +42,9 @@ by: The Tutorial Doctor
 	- [Awesome Bump](http://awesomebump.besaba.com)
 	- [MagicaVoxel](https://ephtracy.github.io)
 
+## Sound Tools
+- [Audacity](http://audacityteam.org)
+
 ## Engines
 - [Maratis](http://www.maratis3d.org)
 - [Paradox](http://paradox3d.net)
