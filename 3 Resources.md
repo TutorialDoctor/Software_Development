@@ -48,7 +48,7 @@ by: The Tutorial Doctor
 ## Engines
 - [Maratis](http://www.maratis3d.org)
 - [Paradox](http://paradox3d.net)
-- [GameMaker](http://www.yoyogames.com/studio)
+- [GameMaker](http://www.yoyogames.com/studio) $ (features cost)
 - [Godot](http://www.godotengine.org/wp/)
 - [Unity](https://unity3d.com)
 - [Unreal](https://www.unrealengine.com) (5% of royalties)
