@@ -1,5 +1,6 @@
 # Animation Principles (WIP)
-
+Based on:
+http://minyos.its.rmit.edu.au/aim/a_notes/anim_principles.html
 
 ## 1. Squash and stretch
 
