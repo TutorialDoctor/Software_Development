@@ -45,6 +45,9 @@ by: The Tutorial Doctor
 ## Sound Tools
 - [Audacity](http://audacityteam.org)
 
+## Video Tools
+- [Handbrake](https://handbrake.fr/features.php)
+
 ## Engines
 - [Maratis](http://www.maratis3d.org)
 - [Paradox](http://paradox3d.net)
