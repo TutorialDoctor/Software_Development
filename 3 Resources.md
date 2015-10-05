@@ -51,6 +51,7 @@ by: The Tutorial Doctor
 ## Engines
 - [Maratis](http://www.maratis3d.org)
 - [Paradox](http://paradox3d.net)
+- [Wave](https://waveengine.net)
 - [GameMaker](http://www.yoyogames.com/studio) $ (features cost)
 - [Godot](http://www.godotengine.org/wp/)
 - [Unity](https://unity3d.com)
