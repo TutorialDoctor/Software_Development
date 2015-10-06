@@ -1,4 +1,4 @@
-# Software_Development
+# Software Development
 This repository serves as an introduction to software/game development.
 It uses [Python](https://www.python.org) as a learning language, the [Brackets](http://brackets.io) editor for learning web development, and the [Godot](http://www.godotengine.org/wp/) game engine.
 
