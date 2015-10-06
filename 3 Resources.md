@@ -50,12 +50,14 @@ by: The Tutorial Doctor
 
 ## Engines
 - [Maratis](http://www.maratis3d.org)
+- [Stencyl](https://twitter.com/Stencyl) $ (free for web)
 - [Paradox](http://paradox3d.net)
 - [Wave](https://waveengine.net)
 - [GameMaker](http://www.yoyogames.com/studio) $ (features cost)
 - [Godot](http://www.godotengine.org/wp/)
 - [Unity](https://unity3d.com)
 - [Unreal](https://www.unrealengine.com) (5% of royalties)
+
 
 ## Languages
 - [C#](https://www.youtube.com/watch?v=lisiwUZJXqQ&index=21&list=PLGLfVvz_LVvSX7fVd4OUFp_ODd86H0ZIY)
