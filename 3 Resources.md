@@ -50,7 +50,7 @@ by: The Tutorial Doctor
 
 ## Engines
 - [Maratis](http://www.maratis3d.org)
-- [Stencyl](https://twitter.com/Stencyl) $ (free for web)
+- [Stencyl](http://www.stencyl.com) $ (free for web)
 - [Paradox](http://paradox3d.net)
 - [Wave](https://waveengine.net)
 - [GameMaker](http://www.yoyogames.com/studio) $ (features cost)
