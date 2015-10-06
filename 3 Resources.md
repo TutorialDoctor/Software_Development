@@ -72,6 +72,10 @@ by: The Tutorial Doctor
 - [Google Play Store](https://play.google.com/store/apps?hl=en)
 - [Platforms]
 
+## Game Art Resources
+- [Open Game Art](http://opengameart.org)
+- [TF3DM](http://tf3dm.com)
+
 ## Educational Resources
 ### Programming
 - [Derek banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
