@@ -1,7 +1,6 @@
 [Game development](https://github.com/TutorialDoctor/TD-Godot-Games) with [Godot](http://www.godotengine.org/projects/godot-engine)
 
 - Godot is a free and open source game engine that uses a custom python-like programming language.
-- Tutorial comming soon...
 
 [Web Development](https://github.com/TutorialDoctor/Software_Development/tree/master/WebDev%20Tutorial) with [Brackets](http://brackets.io)
 
