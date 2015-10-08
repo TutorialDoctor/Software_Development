@@ -74,10 +74,13 @@ by: The Tutorial Doctor
 - [Google Play Store](https://play.google.com/store/apps?hl=en)
 - [Platforms]
 
-## Game Art Resources
-- [Open Game Art](http://opengameart.org)
-- [TF3DM](http://tf3dm.com)
-
+## Assets
+- Art
+	- [Open Game Art](http://opengameart.org)
+	- [TF3DM](http://tf3dm.com)
+- Interface
+	- [Flaticon](http://www.flaticon.com/packs/2)
+	- 
 ## Educational Resources
 ### Programming
 - [Derek banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
@@ -86,7 +89,7 @@ by: The Tutorial Doctor
 - [Tuts +](http://gamedevelopment.tutsplus.com)
 - [Codecademy](https://www.codecademy.com/learn)
 
-### Art
+### Drawing
 - [Will Terry](https://www.youtube.com/watch?v=21iqgxVrrrs&list=PL0455BA1360AC306D&index=1)
 - [Chris Hart](https://www.youtube.com/user/chrishartbooks)
 
