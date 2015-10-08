@@ -80,7 +80,7 @@ by: The Tutorial Doctor
 	- [TF3DM](http://tf3dm.com)
 - Interface
 	- [Flaticon](http://www.flaticon.com/packs/2)
-	- 
+
 ## Educational Resources
 ### Programming
 - [Derek banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
