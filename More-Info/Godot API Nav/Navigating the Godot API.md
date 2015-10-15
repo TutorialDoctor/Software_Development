@@ -1,15 +1,15 @@
 # Navigating the Godot API
 
-![](screen0.png =600x)
+![](screen0.png)
 
 # Add a node
-![](screen1.png =600x)
+![](screen1.png)
 
 # Choose a node
-![](screen2.png =600x)
+![](screen2.png)
 
 # Add a script
-![](screen3.png =600x)
+![](screen3.png)
 
 # Save the script
-![](screen4.png =600x)
+![](screen4.png)
