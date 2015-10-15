@@ -81,6 +81,9 @@ by: The Tutorial Doctor
 - Interface
 	- [Flaticon](http://www.flaticon.com/packs/2)
 
+## Map Editors
+- [Tiled](http://www.mapeditor.org)
+
 ## Educational Resources
 ### Programming
 - [Derek banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
