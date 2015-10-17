@@ -5,7 +5,7 @@ Having a hard time finding out how functions and nodes tie together in Godot?
 
 This is a quick start guide.
 
-![](screen0.png =800x)
+![](screen0.png)
 
 ## Create a node
 
@@ -15,7 +15,7 @@ The first sub-class of the Object Class is the **Node Class**. The Node class is
 
 - To create a node in Godot, click on the ***Create Node*** button.
 
-![](screen1.png =800x)
+![](screen1.png)
 
 ## Choose a node
 
@@ -38,7 +38,7 @@ The first node in any Godot scene will be the **root**/main node of the scene. A
 
 - Create three children nodes for the "Node" node. Create a Control, Node2D, and Spatial node.
 
-![](screen2.png =800x)
+![](screen2.png)
 
 You can now add GUI elements, 2D game elements, and 3D elements to to their respective root nodes. As a note, these three root nodes do not *have* to be the root nodes, but it is best practice to make them so.
 
@@ -47,25 +47,25 @@ These nodes are useless if they cannot do anything. They need a brain! The brain
 
 - Add a script to the "Node" node.
 
-![](screen3.png =800x)
+![](screen3.png)
 
 ## Save the script
 
 You can save the script to a location in your project folder with the **.gd** extension. Click ***Create*** to create the script of the current node.
 
-![](screen4.png =800x)
+![](screen4.png)
 
 ## The Code Editor
 
 Once your script is created, the code editor pops up. This is where you give your node a brain. *If I~~t~~ only had a ~~brain~~ script....*
 
-![](screen5.png =800x)
+![](screen5.png)
 
 ## Help
 
 By default, every node comes with some of their own functions/methods. To get help on what functions a node has, **select the name** of the node where it says "extends", click ***Help***, and navigate to ***Contextual***.
 
-![](screen6.png =800x)
+![](screen6.png)
 
 ## API
 
@@ -75,9 +75,9 @@ This is where you get the functions, variables and classes you need to interface
 
 - That get_children() method/instruction looks cool!
 
-![](screen7.png =800x)
+![](screen7.png)
 
-![](screen8.png =800x)
+![](screen8.png)
 
 ## Using a method
 
@@ -85,19 +85,19 @@ This is where you get the functions, variables and classes you need to interface
 
 Let's print that get_children() function to print the children of this Node. The print() function is your friend!
 
-![](screen9.png =800x)
+![](screen9.png)
 
 - Click the ***Play*** button to run the game
 
-![](screen10.png =800x)
+![](screen10.png)
 
 The game runs and the children of the "Node" node are printed to the console.Looking back at the API to the **left** of the method name, in **red** we see that this method **returns** an **Array**. This method takes no arguments (there are no values inside of the parenthesis).
 ct 
-![](screen11.png =800x)
+![](screen11.png)
 
 We can even add some basic logic to print the names of the children using the get_names() method on each child:
 
-![](screen12.png =800x)
+![](screen12.png)
 
 Since the Node Class is a sub-class of the Object Class, it inherits all traits of the Object Class, and thus it can use all methods, signals, and constants of the Object Class.
 
