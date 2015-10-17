@@ -1,5 +1,6 @@
-# Navigating the Godot API
+# Navigating the Godot API (WIP)
 
+<<<<<<< HEAD
 Having a hard time finding out how functions and nodes tie together in Godot?
 
 This is a quick start guide.
@@ -102,3 +103,18 @@ Since the Node Class is a sub-class of the Object Class, it inherits all traits 
 
 - ~~[Link to Godot syntax]()~~
 - ~~[Link to Godot Process]()~~
+=======
+![](screen0.png)
+
+# Add a node
+![](screen1.png)
+
+# Choose a node
+![](screen2.png)
+
+# Add a script
+![](screen3.png)
+
+# Save the script
+![](screen4.png)
+>>>>>>> origin/master
