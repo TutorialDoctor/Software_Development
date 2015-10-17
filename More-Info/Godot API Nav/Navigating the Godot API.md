@@ -1,6 +1,5 @@
 # Navigating the Godot API (WIP)
 
-<<<<<<< HEAD
 Having a hard time finding out how functions and nodes tie together in Godot?
 
 This is a quick start guide.
