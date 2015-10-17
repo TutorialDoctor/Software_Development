@@ -102,19 +102,3 @@ Since the Node Class is a sub-class of the Object Class, it inherits all traits 
 
 - ~~[Link to Godot syntax]()~~
 - ~~[Link to Godot Process]()~~
-
-=======
-![](screen0.png)
-
-# Add a node
-![](screen1.png)
-
-# Choose a node
-![](screen2.png)
-
-# Add a script
-![](screen3.png)
-
-# Save the script
-![](screen4.png)
->>>>>>> origin/master
