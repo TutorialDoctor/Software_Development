@@ -118,4 +118,4 @@ If you want realism, just be more **accurate**.
 # Examples from Deviant Art
 ![](http://pre14.deviantart.net/bd70/th/pre/i/2014/325/3/9/exercise_31_results__creature_feature_step_by_step_by_conceptcookie-d876bu4.jpg)
 
-![](http://cgcookie.deviantart.com/art/Exercise-36-Results-Berries-Step-by-Step-Chart-515350687)
+![](http://pre00.deviantart.net/189a/th/pre/i/2015/051/2/1/exercise_36_results__berries_step_by_step_chart_by_conceptcookie-d8itr4v.jpg)
