@@ -123,3 +123,5 @@ If you want realism, just be more **accurate**.
 ![](http://pre03.deviantart.net/e812/th/pre/i/2015/131/2/3/exercise_40_results__flowers_step_by_step_chart_by_conceptcookie-d8t0xcc.jpg)
 
 ![](http://img09.deviantart.net/b5b2/i/2015/116/3/8/exercise_39_results__sliced_fruit_by_conceptcookie-d8qu7bx.jpg)
+
+![](http://pre06.deviantart.net/e46f/th/pre/i/2014/171/e/7/exercise_26_results__shading_gems_step_by_step_by_conceptcookie-d7n6s2w.jpg)
