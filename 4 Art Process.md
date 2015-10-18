@@ -125,3 +125,5 @@ If you want realism, just be more **accurate**.
 ![](http://img09.deviantart.net/b5b2/i/2015/116/3/8/exercise_39_results__sliced_fruit_by_conceptcookie-d8qu7bx.jpg)
 
 ![](http://pre06.deviantart.net/e46f/th/pre/i/2014/171/e/7/exercise_26_results__shading_gems_step_by_step_by_conceptcookie-d7n6s2w.jpg)
+
+![](http://pre09.deviantart.net/98df/th/pre/i/2014/212/d/8/tutorial__coloring_over_your_lineart_by_conceptcookie-d7t4e0u.jpg)
