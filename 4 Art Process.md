@@ -114,3 +114,6 @@ If you want realism, just be more **accurate**.
 [Learn more about points, lines, and shapes](https://github.com/TutorialDoctor/Software_Development/blob/master/More-Info/Point,%20Line,%20Shape,%20Circle.md)
 
 [Learn more about animation](https://github.com/TutorialDoctor/Software_Development/blob/master/More-Info/Animation%20Process.md)
+
+# Examples from Deviant Art
+![](http://pre14.deviantart.net/bd70/th/pre/i/2014/325/3/9/exercise_31_results__creature_feature_step_by_step_by_conceptcookie-d876bu4.jpg)
