@@ -101,3 +101,6 @@ func loopAnimation(x,d):
 		dt = 0
 #Example Usage: loopAnimation(bird,delta)
 # Use under _process() function, and pass in delta as second argument
+
+# Get viewport size (process function)
+view_size = get_parent().get_rect().size

@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<resource_file type="PackedScene" subresource_count="3" version="1.1" version_name="Godot Engine v1.1.stable.d3b42e41b0">
+<resource_file type="PackedScene" subresource_count="14" version="1.1" version_name="Godot Engine v1.1.stable.d3b42e41b0">
 	<ext_resource path="res://scripts/Level1.gd" type="Script"></ext_resource>
-	<ext_resource path="res://sounds/Streams/Voice/News Report &amp;amp; Soldiers.ogg" type="AudioStream"></ext_resource>
+	<ext_resource path="res://sprites/Backgrounds/sky.png" type="Texture"></ext_resource>
+	<ext_resource path="res://sprites/grass_moving/grass_moving1.png" type="Texture"></ext_resource>
+	<ext_resource path="res://sprites/grass_moving/grass_moving2.png" type="Texture"></ext_resource>
+	<ext_resource path="res://sprites/grass_moving/grass_moving3.png" type="Texture"></ext_resource>
+	<ext_resource path="res://sprites/grass_moving/grass_moving4.png" type="Texture"></ext_resource>
+	<ext_resource path="res://sprites/grass_moving/grass_moving5.png" type="Texture"></ext_resource>
+	<ext_resource path="res://sprites/grass_moving/grass_moving6.png" type="Texture"></ext_resource>
+	<ext_resource path="res://sprites/grass_moving/grass_moving7.png" type="Texture"></ext_resource>
+	<ext_resource path="res://sprites/grass_moving/grass_moving8.png" type="Texture"></ext_resource>
+	<ext_resource path="res://sprites/grass_moving/grass_moving9.png" type="Texture"></ext_resource>
+	<ext_resource path="res://scripts/loopSprite.gd" type="Script"></ext_resource>
+	<resource type="SpriteFrames" path="local://0">
+		<array name="frames" len="9" shared="false">
+			<resource  resource_type="Texture" path="res://sprites/grass_moving/grass_moving1.png">  </resource>
+			<resource  resource_type="Texture" path="res://sprites/grass_moving/grass_moving2.png">  </resource>
+			<resource  resource_type="Texture" path="res://sprites/grass_moving/grass_moving3.png">  </resource>
+			<resource  resource_type="Texture" path="res://sprites/grass_moving/grass_moving4.png">  </resource>
+			<resource  resource_type="Texture" path="res://sprites/grass_moving/grass_moving5.png">  </resource>
+			<resource  resource_type="Texture" path="res://sprites/grass_moving/grass_moving6.png">  </resource>
+			<resource  resource_type="Texture" path="res://sprites/grass_moving/grass_moving7.png">  </resource>
+			<resource  resource_type="Texture" path="res://sprites/grass_moving/grass_moving8.png">  </resource>
+			<resource  resource_type="Texture" path="res://sprites/grass_moving/grass_moving9.png">  </resource>
+		</array>
+
+	</resource>
 	<main_resource>
 		<dictionary name="_bundled" shared="false">
 			<string> "conn_count" </string>
@@ -9,7 +33,7 @@
 			<string> "conns" </string>
 			<int_array  len="0"> 				 </int_array>
 			<string> "names" </string>
-			<string_array  len="20">
+			<string_array  len="35">
 				<string> "Node2D" </string>
 				<string> "_import_path" </string>
 				<string> "visibility/visible" </string>
@@ -23,20 +47,35 @@
 				<string> "z/relative" </string>
 				<string> "script/script" </string>
 				<string> "__meta__" </string>
-				<string> "StreamPlayer" </string>
-				<string> "stream/stream" </string>
-				<string> "stream/play" </string>
-				<string> "stream/loop" </string>
-				<string> "stream/volume_db" </string>
-				<string> "stream/autoplay" </string>
-				<string> "stream/paused" </string>
+				<string> "sprite_sky" </string>
+				<string> "Sprite" </string>
+				<string> "texture" </string>
+				<string> "centered" </string>
+				<string> "offset" </string>
+				<string> "flip_h" </string>
+				<string> "flip_v" </string>
+				<string> "vframes" </string>
+				<string> "hframes" </string>
+				<string> "frame" </string>
+				<string> "modulate" </string>
+				<string> "region" </string>
+				<string> "region_rect" </string>
+				<string> "Grass" </string>
+				<string> "obj_grass" </string>
+				<string> "AnimatedSprite" </string>
+				<string> "frames" </string>
+				<string> "speed" </string>
+				<string> "obj_grass2" </string>
+				<string> "obj_grass3" </string>
+				<string> "obj_grass4" </string>
+				<string> "obj_grass5" </string>
 			</string_array>
 			<string> "node_count" </string>
-			<int> 2 </int>
+			<int> 8 </int>
 			<string> "nodes" </string>
-			<int_array  len="52"> 				-1, -1, 0, 0, -1, 12, 1, 0, 2, 1, 3, 2, 4, 2, 5, 3, 6, 4, 7, 5, 8, 6, 9, 7, 10, 1, 11, 8, 12, 9, 0, 0, 0, 13, 13, -1, 7, 1, 0, 14, 10, 15, 11, 16, 11, 17, 5, 18, 1, 19, 11, 0 </int_array>
+			<int_array  len="314"> 				-1, -1, 0, 0, -1, 12, 1, 0, 2, 1, 3, 2, 4, 2, 5, 3, 6, 4, 7, 5, 8, 6, 9, 7, 10, 1, 11, 8, 12, 9, 0, 0, 0, 14, 13, -1, 21, 1, 0, 2, 1, 3, 2, 4, 2, 5, 3, 6, 10, 7, 5, 8, 11, 9, 7, 10, 1, 15, 12, 16, 1, 17, 4, 18, 13, 19, 13, 20, 3, 21, 3, 22, 7, 23, 14, 24, 13, 25, 15, 0, 0, 0, 0, 26, -1, 11, 1, 0, 2, 1, 3, 2, 4, 2, 5, 3, 6, 4, 7, 5, 8, 6, 9, 7, 10, 1, 12, 16, 0, 2, 0, 28, 27, -1, 17, 1, 0, 2, 1, 3, 2, 4, 2, 5, 3, 6, 17, 7, 5, 8, 6, 9, 7, 10, 1, 29, 18, 16, 1, 18, 13, 19, 13, 23, 14, 11, 19, 30, 20, 0, 2, 0, 28, 31, -1, 17, 1, 0, 2, 1, 3, 2, 4, 2, 5, 3, 6, 21, 7, 5, 8, 6, 9, 7, 10, 1, 29, 18, 16, 1, 18, 13, 19, 13, 23, 14, 11, 19, 30, 22, 0, 2, 0, 28, 32, -1, 17, 1, 0, 2, 1, 3, 2, 4, 2, 5, 3, 6, 23, 7, 5, 8, 6, 9, 7, 10, 1, 29, 18, 16, 1, 18, 13, 19, 13, 23, 14, 11, 19, 30, 24, 0, 2, 0, 28, 33, -1, 17, 1, 0, 2, 1, 3, 2, 4, 2, 5, 3, 6, 25, 7, 5, 8, 6, 9, 7, 10, 1, 29, 18, 16, 1, 18, 13, 19, 13, 23, 14, 11, 19, 30, 20, 0, 2, 0, 28, 34, -1, 17, 1, 0, 2, 1, 3, 2, 4, 2, 5, 3, 6, 26, 7, 5, 8, 6, 9, 7, 10, 1, 29, 18, 16, 1, 18, 13, 19, 13, 23, 14, 11, 19, 30, 27, 0 </int_array>
 			<string> "variants" </string>
-			<array  len="12" shared="false">
+			<array  len="28" shared="false">
 				<node_path> "" </node_path>
 				<bool> True </bool>
 				<real> 1 </real>
@@ -48,13 +87,13 @@
 				<resource  resource_type="Script" path="res://scripts/Level1.gd">  </resource>
 				<dictionary  shared="false">
 					<string> "__editor_plugin_screen__" </string>
-					<string> "Script" </string>
+					<string> "2D" </string>
 					<string> "__editor_plugin_states__" </string>
 					<dictionary  shared="false">
 						<string> "2D" </string>
 						<dictionary  shared="false">
 							<string> "ofs" </string>
-							<vector2> -78.7198, -447.524 </vector2>
+							<vector2> -1296.47, -708.576 </vector2>
 							<string> "snap_grid" </string>
 							<bool> False </bool>
 							<string> "snap_offset" </string>
@@ -74,7 +113,7 @@
 							<string> "snap_step" </string>
 							<vector2> 10, 10 </vector2>
 							<string> "zoom" </string>
-							<real> 0.323534 </real>
+							<real> 0.397215 </real>
 						</dictionary>
 						<string> "3D" </string>
 						<dictionary  shared="false">
@@ -171,12 +210,13 @@
 						<string> "Script" </string>
 						<dictionary  shared="false">
 							<string> "current" </string>
-							<int> 0 </int>
+							<int> 3 </int>
 							<string> "sources" </string>
-							<array  len="3" shared="false">
+							<array  len="4" shared="false">
 								<string> "res://scripts/Level1.gd" </string>
 								<string> "res://scripts/stream.gd" </string>
 								<string> "res://scripts/GodotSnippets.gd" </string>
+								<string> "res://scripts/loopSprite.gd" </string>
 							</array>
 						</dictionary>
 					</dictionary>
@@ -187,9 +227,30 @@
 						<string> "run_mode" </string>
 						<int> 0 </int>
 					</dictionary>
+					<string> "_editor_collapsed" </string>
+					<bool> True </bool>
 				</dictionary>
-				<resource  resource_type="AudioStream" path="res://sounds/Streams/Voice/News Report &amp;amp;amp; Soldiers.ogg">  </resource>
+				<vector2> 537.843, 383.906 </vector2>
+				<vector2> 1.25319, 1.50639 </vector2>
+				<resource  resource_type="Texture" path="res://sprites/Backgrounds/sky.png">  </resource>
 				<bool> False </bool>
+				<color> 1, 1, 1, 1 </color>
+				<rect2> 0, 0, 0, 0 </rect2>
+				<dictionary  shared="false">
+					<string> "_editor_collapsed" </string>
+					<bool> True </bool>
+				</dictionary>
+				<vector2> 126.964, 639.79 </vector2>
+				<resource  resource_type="SpriteFrames" path="local://0">  </resource>
+				<resource  resource_type="Script" path="res://scripts/loopSprite.gd">  </resource>
+				<real> 0.1 </real>
+				<vector2> 386.27, 639.79 </vector2>
+				<real> 0.2 </real>
+				<vector2> 638.022, 639.79 </vector2>
+				<real> 0.3 </real>
+				<vector2> 844.46, 639.79 </vector2>
+				<vector2> 1015.65, 639.79 </vector2>
+				<real> 0.5 </real>
 			</array>
 			<string> "version" </string>
 			<int> 1 </int>
