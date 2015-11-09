@@ -80,6 +80,8 @@ by: The Tutorial Doctor
 	- [TF3DM](http://tf3dm.com)
 - Interface
 	- [Flaticon](http://www.flaticon.com/packs/2)
+- Sound Effects
+	- [Sound Jay](http://www.soundjay.com)
 
 ## Map Editors
 - [Tiled](http://www.mapeditor.org)
