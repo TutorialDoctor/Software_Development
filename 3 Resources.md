@@ -93,7 +93,7 @@ by: The Tutorial Doctor
 - [Carl Herold](https://www.youtube.com/watch?v=_T-Bbn-tWK4)
 - [Tuts +](http://gamedevelopment.tutsplus.com)
 - [Codecademy](https://www.codecademy.com/learn)
-- 
+ 
 ### Technology
 - [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)
 
