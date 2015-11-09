@@ -55,7 +55,9 @@ A person who **creates** a program is called a **developer**
 
 # Printing
 ___
-The most useful instruction you can give to a computer is to tell it to **print** something to the screen.	
+The most useful instruction you can give to a computer is to tell it to **print** or output something to the screen.
+
+You can also get input from the user.	
 <pre>
 OUTPUT
 print 'Tutorial Doctor'
@@ -188,7 +190,7 @@ checkAge()
 
 # Loops
 ___
-- A loops is how you make a computer **repeat** an instruction. You could make it repeat a single statment or a whole function. There are **two main types** of loop statements. There is the while loop and the for loop.
+- A loops is how you make a computer **repeat** an instruction. You could make it repeat a single statment or a whole function. There are **two main types** of loop statements. There is the **while loop** and the **for loop**.
 
 ## While
 - A While Loop is like saying "**as long as**...." Short for "as long as" is "while." The computer will do something while a condtion is met.	
