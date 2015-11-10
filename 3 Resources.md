@@ -72,6 +72,8 @@ by: The Tutorial Doctor
 - [Godot](http://www.godotengine.org/wp/)
 - [Apple App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)
 - [Google Play Store](https://play.google.com/store/apps?hl=en)
+- [Itch](http://itch.io)
+- [Game Jolt](http://gamejolt.com)
 - [Platforms]
 
 ## Assets
