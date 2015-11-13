@@ -513,4 +513,4 @@ ___
 
 Note: Throughout the process  I use the **print** function to test stuff.
 
-To get started with python, check out my [Python Syntax](https://gist.github.com/TutorialDoctor/dda76e58fc43d7375856) tutorial.
+To get started with python, check out my [Python Syntax](https://gist.github.com/TutorialDoctor/dda76e58fc43d7375856) script.
