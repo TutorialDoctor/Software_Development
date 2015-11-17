@@ -39,7 +39,7 @@ by: The Tutorial Doctor
 
 # Intro 
 ___
-A **computer program** is a **recipe** for a computer. The computer reads the recipe and  you get a game like **Angry Birds**, a Word Processor like **Microsoft Office**, or a website like Youtube.
+A **computer program** is a **recipe** for a computer. The computer reads the recipe and  you get a game like **Angry Birds**, a word processor like **Microsoft Office**, or a website like Youtube.
 
 Recipes have various **ingredients**. They also have directions/ **instructions** for using those ingredients.	
 
@@ -84,7 +84,7 @@ raw_input('What is your name? ')
 
 # Variables
 ___
-**Variables** are named like **nouns**. If there were an apple in your recipe, the apple would be a noun(variable). A blender would be a noun, and therfore a variable.
+**Variables** are named like **nouns**. If there were an apple in your recipe, the apple would be a noun(variable). A blender would be a noun, and therefore a variable.
 
 An apple is a type of fruit. A pecan is  type of nut. A male is a type of person. When you give a **variable** a **type** in computer programming, you are giving it a **data type**.
 
@@ -159,12 +159,12 @@ print sum(93943,542434)
 
 # Conditionals(Flow control) (Flow control)
 ___
-- Perhaps you only want to blend() an apple under **certain conditions**. Perhaps you only want to blend() the apple if the apple has already been diced. To create condtitions in a program you use **Conditional Statements**.
+- Perhaps you only want to blend() an apple under **certain conditions**. Perhaps you only want to blend() the apple if the apple has already been diced. To create conditions in a program you use **Conditional Statements**.
 
-- A condtional statement is a statement  like:
+- A conditional statement is a statement  like:
 		*"If the the apple has been diced, blend the apple. Otherwise, if the apple has not been diced, do not blend the apple. If the apple is anything else, then do nothing."*	
 
-- Things will only happen if a conditon is met.
+- Things will only happen if a condition is met.
 	
 ## If
 - The way you say "**if**" to a computer program is by using the "if" keyword.
@@ -190,14 +190,14 @@ checkAge()
 
 # Loops
 ___
-- A loops is how you make a computer **repeat** an instruction. You could make it repeat a single statment or a whole function. There are **two main types** of loop statements. There is the **while loop** and the **for loop**.
+- A loops is how you make a computer **repeat** an instruction. You could make it repeat a single statement or a whole function. There are **two main types** of loop statements. There is the **while loop** and the **for loop**.
 
 ## While
-- A While Loop is like saying "**as long as**...." Short for "as long as" is "while." The computer will do something while a condtion is met.	
+- A While Loop is like saying "**as long as**...." Short for "as long as" is "while." The computer will do something while a condition is met.	
 
 - You might say, "Blend the apple as long as the time is less than 10 seconds."
 
-- While the appple has been blending for less than 10 seconds, the computer will blend the apple.		
+- While the apple has been blending for less than 10 seconds, the computer will blend the apple.		
 
 *"While seconds is less than 10"*
 
@@ -250,7 +250,7 @@ Humans are a part of the  Human Class. Inside of this Human Class there are male
 - One class  can be **part of another class**.
 - A woman is part of the female class, and a female is part of the human class. 
 - If there were an object named Sarah, she would be part of the woman class, and she would also **inherit traits** /properties from the female and human classes.
-- A class inherting traits from another is called **Inheritance**.
+- A class inheriting traits from another is called **Inheritance**.
 
 ## Method
 A **function** that is **in a class** is called a **method** (sometimes used interchangeably with the word "function")
@@ -274,7 +274,7 @@ A **function** that is **in a class** is called a **method** (sometimes used int
 class MathGenius:
 	PI = 3.14159265359
 	E = 2.71828182846
-	#avogadro
+	#Avogadro
 	#universal constant
 	def __init__(self):
 		pass
@@ -363,19 +363,19 @@ ___
 
 If you want to write a computer program, you need something to **write it in**.  You use a word processor to write essays and you write programs in an IDE (**Integrated Development Environment**).
 
-It is an environment  that you develop in! Develop what? Develope programs -- those super tasty code recipe masterpieces! **XCODE** is Apple's IDE. You make iPhone apps in XCODE and Android apps in **Eclipse**.
+It is an environment  that you develop in! Develop what? Develop programs -- those super tasty code recipe masterpieces! **XCODE** is Apple's IDE. You make iPhone apps in XCODE and Android apps in **Eclipse**.
 
 ## SOURCE CODE
 
-In compter programming, your **entire recipe** with its ingredients and instructions is called your **source code**.
+In computer programming, your **entire recipe** with its ingredients and instructions is called your **source code**.
 
 A lot of programmers keep their source code a secret, like a secret recipe. Programs that are not secret are called **Open Source** programs.
 
 ##  SYNTAX
 
-There are different types of langauges you can write in, and each language has its own grammar rules. The **grammar rules** of computer programming is called the **syntax** of the language.
+There are different types of languages you can write in, and each language has its own grammar rules. The **grammar rules** of computer programming is called the **syntax** of the language.
 
-If your syntax is not correct, the computer will not understand what you are saying. In some languages they use a simicolon to end a statement, just like we use a period to end a sentence -- different syntax.
+If your syntax is not correct, the computer will not understand what you are saying. In some languages they use a semicolon to end a statement, just like we use a period to end a sentence -- different syntax.
 
 ## PROGRAMMING STYLE
 Your programming style is the way in which the developer **styles their source code**, usually according to a set of rules or standards.
@@ -411,27 +411,27 @@ I once saw a computer program that was a page long, and all it did was make an o
 
 Computers, much like humans, can only remember so much at one time. Anything stored in the memory of the computer can be accessed quicker than something that isn't.
 
-Most data/directions go into the **RAM** (Random Access Memory) part of the computer brain. Another place information is stored is in the **ROM** (Read-only memory). I am no nerosurgeon so I will stop there. All you need to know is that you shouldn't overload the computer with instructions when it can only remember so much.
+Most data/directions go into the **RAM** (Random Access Memory) part of the computer brain. Another place information is stored is in the **ROM** (Read-only memory). I am no neurosurgeon so I will stop there. All you need to know is that you shouldn't overload the computer with instructions when it can only remember so much.
 
-I wrote a program that made my computer calculate the ccurrent Year, Month, Day, Hour, Minute, and Second 20,000 times fast. My computer fan started humming
+I wrote a program that made my computer calculate the current Year, Month, Day, Hour, Minute, and Second 20,000 times fast. My computer fan started humming
 
 ## INTERACTIVITY
 
-Interativity is a way for **users** like you and me to **interact with** and change the code of a **program** without having to open the code in an IDE and change variables or functions.
+Interactivity is a way for **users** like you and me to **interact with** and change the code of a **program** without having to open the code in an IDE and change variables or functions.
 
 For example, when you select a number in the timer section of the clock app on your iPhone, you are actually changing the value of a variable in the code. Let's say the name of that variable is *timer*.
 
 When you tap the "Start" button, you are starting a function (remember that functions do something to variables). If I had to guess, the start function counts down from the timer number.
 
-All you had to do was scroll and tap to manipulte the code. You *interacted* with the program.
+All you had to do was scroll and tap to manipulate the code. You *interacted* with the program.
 
 ## EVENTS, EVENT LISTENERS, EVENT HANDLERS
 
-When you **press a key** on your keyboard, that is an event. When you **click a button** on your mouse or **swipe or pinch** on your ipad, that is an **event**.
+When you **press a key** on your keyboard, that is an event. When you **click a button** on your mouse or **swipe or pinch** on your iPad, that is an **event**.
 
 The **event listener** is a function that **detects the event**, and the **event handler** is a function that  **links that event** to a function or class in your program.
 
-Events are what connect our physical actions to the didgital actions of the computer, making it interactive.
+Events are what connect our physical actions to the digital actions of the computer, making it interactive.
 
 ## COMPILE
 After you write your program you have to translate it back into something the computer actually understands (into machine language). This process is called **compiling**. A **compiler** is a program that compiles programs.
@@ -473,7 +473,7 @@ An interpreted programming language is one that is not translated, but interpret
 ## Operating System
 -  An **Operating System** is a **big program** that **runs other programs** like:
 	-  Windows
-	-  Mac OSx 
+	-  Mac OSX 
 	-  Linux
 - There are even mobile operating systems:
 	- IOS
@@ -502,7 +502,7 @@ An interpreted programming language is one that is not translated, but interpret
 ## Recursion
 A function calling itself.
 ## Server
-A server is a **computer** that **offers services** to another computer. At a restaurant, the restaurant server serves food to other people. in the same way, a file server, serves files to other computers. A media server serves media (photos, movies) to other computers.
+A server is a **computer** that **offers services** to another computer. At a restaurant, the restaurant server serves food to other people. In the same way, a file server, serves files to other computers. A media server serves media (photos, movies) to other computers.
 # Steps To Making a Program
 ___
 1. First, I write a description of what I want the program to do.
