@@ -13,11 +13,14 @@ It is divided into 6 sections:
 
 First you will **learn** how to program using the **Python** (version **2.7**) language. Then you will **play** with various programs. Next you get links to **resources**. Lastly you **create** a video game using the Godot game engine API.
 
-This is intended for beginners who want to dive into the software development industry.
+## Notes
+- This is intended for beginners who want to dive into the software development industry.
 
-This is a work in progress. Hope it helps.
+- For an easy start, you can use the [Brackets IDE](http://brackets.io) to practice Python. There is an extenssion that allows you to run Python and Ruby scripts. To download, go to File/Extension Manager within Brackets and search "Python."
+The link to the reop is [here](https://github.com/jadbox/brackets-integrated-development). As a note, this extension cannot use the raw_input() and input() functions.
 
-I will be adding Python 3 compatability. 
+- This is a work in progress. Hope it helps.
+
 
 -TD
 
