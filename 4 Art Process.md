@@ -68,7 +68,7 @@ Sketch the idea first (or find **reference photos**). Compose the model using **
 
 - [3D Modeling Basics](https://www.youtube.com/user/GuerrillaCG)
 - [Remaking the Art of Halo 2 for Xbox](https://www.youtube.com/watch?v=N6pdeECc5d4)
-
+- [My 3D modeling tutorial](https://youtu.be/wP7dIFMZiGM)
 ### Animation
 -  **Sketch** (Describe)
 - **Blocking & Keyframes** (no interpolation) (Prototype)
