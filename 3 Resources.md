@@ -101,8 +101,13 @@ by: The Tutorial Doctor
 - [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)
 
 ### Drawing
+
+Introductory:
 - [Will Terry](https://www.youtube.com/watch?v=21iqgxVrrrs&list=PL0455BA1360AC306D&index=1)
 - [Chris Hart](https://www.youtube.com/user/chrishartbooks)
+
+Intermediate:
+- [Anatomy](https://www.youtube.com/channel/UClM2LuQ1q5WEc23462tQzBg)
 
 ## Community Sites
 - [Github](https://github.com)
