@@ -4,7 +4,7 @@ Spoken languages have many words. Each word has a designated part of speech. Whe
 
 I want to share a standard I have for translating these parts of speech into a programming language so that your code will be more readable.
 
-I am using [Lua](http://www.lua.org) for this article.
+I am using [Lua](http://www.lua.org) as an example lanague.
 
 # Parts of Speech
 
