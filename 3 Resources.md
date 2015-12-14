@@ -80,6 +80,7 @@ by: The Tutorial Doctor
 - Art
 	- [Open Game Art](http://opengameart.org)
 	- [TF3DM](http://tf3dm.com)
+	- [3d Warehouse](https://3dwarehouse.sketchup.com/index.html)
 - Interface
 	- [Flaticon](http://www.flaticon.com/packs/2)
 - Sound Effects
