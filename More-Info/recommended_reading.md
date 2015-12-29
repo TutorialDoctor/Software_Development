@@ -1,4 +1,4 @@
-A list of readings I found useful when learning Python.
+A list of readings I found useful.
 
 ## Python
 [Byte of Python](http://files.swaroopch.com/python/byte_of_python.pdf)
