@@ -9,3 +9,7 @@ Here you will learn the basics of web development.
 The tutorial is inside of the .html file.
 
 [@TutorialDoctor](https://twitter.com/TutorialDoctor)
+
+## Video Tutorials
+
+- [Create desktop apps] with [nwjs](http://nwjs.io) and [hypeapp](http://tumult.com)(https://www.youtube.com/watch?v=GUuWowRP5-Q&feature=youtu.be)
