@@ -12,4 +12,4 @@ The tutorial is inside of the .html file.
 
 ## Video Tutorials
 
-- [Create desktop apps] with [nwjs](http://nwjs.io) and [hypeapp](http://tumult.com)(https://www.youtube.com/watch?v=GUuWowRP5-Q&feature=youtu.be)
+- [Create desktop apps](https://www.youtube.com/watch?v=GUuWowRP5-Q&feature=youtu.be) with [nwjs](http://nwjs.io) and [hypeapp](http://tumult.com)
