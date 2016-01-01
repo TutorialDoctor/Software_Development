@@ -1,4 +1,4 @@
-# CoderDojo: Summary
+# Learn Programming: Summary
 
 A **computer program** is a **recipe** for a computer. The computer reads the recipe and  you get a game like **Angry Birds**, a Word Processor like **Microsoft Office**, or a website like Youtube.
 
