@@ -37,6 +37,7 @@ by: The Tutorial Doctor
 7. API
 8. SDK
 
+A summary of this document can be found [here](https://github.com/TutorialDoctor/Software_Development/blob/master/More-Info/Learn%20Summary.md)
 # Intro 
 ___
 A **computer program** is a **recipe** for a computer. The computer reads the recipe and  you get a game like **Angry Birds**, a word processor like **Microsoft Office**, or a website like Youtube.
