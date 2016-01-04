@@ -46,7 +46,7 @@ Recipes have various **ingredients**. They also have directions/ **instructions*
 
 The **ingredients** of a computer program are called **variables**.
 The **instructions** of a computer program are called **statements**.
-And a **group of statements** is called a **function**.
+A **group of statements** is called a **function**.
 
 
 # User and Developer
