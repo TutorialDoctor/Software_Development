@@ -348,7 +348,7 @@ ___
 An API (**Application programming Interface**) is a **collection** of classes, functions and variables for another program that are made available to you for the purpose of programming for the other program. 
 
 In order to have access to some APIs you must been given a key to access it.
-Event then, only certain parts of the API may be made accessible to you.
+Even then, only certain parts of the API may be made accessible to you.
 
 If you wanted to make your own Twitter app that can post to Twitter, you have to use Twitter's API. Twitter has to give you a key to access parts of their API.
 
