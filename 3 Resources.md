@@ -55,7 +55,7 @@ by: The Tutorial Doctor
 - [Paradox](http://paradox3d.net)
 - [Wave](https://waveengine.net)
 - [GameMaker](http://www.yoyogames.com/studio) $ (features cost)
-- [Godot](http://www.godotengine.org/wp/)
+- [Godot](http://www.godotengine.org/projects/godot-engine)
 - [Unity](https://unity3d.com)
 - [Unreal](https://www.unrealengine.com) (5% of royalties)
 
