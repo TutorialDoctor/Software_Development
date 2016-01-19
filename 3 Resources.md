@@ -70,7 +70,7 @@ by: The Tutorial Doctor
 
 ## Game Resources
 - [Ludum Dare](http://ludumdare.com/compo/)
-- [Godot](http://www.godotengine.org/wp/)
+- [Godot](http://www.godotengine.org/projects/godot-engine/boards/8)
 - [Apple App Store](https://itunes.apple.com/us/genre/ios/id36?mt=8)
 - [Google Play Store](https://play.google.com/store/apps?hl=en)
 - [Itch](http://itch.io)
