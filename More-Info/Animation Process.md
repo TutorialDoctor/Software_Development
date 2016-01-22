@@ -46,3 +46,4 @@ Clear drawing and personality. Tell a story
 
 - [15 Animation Tips](http://www.teksmobile.com.au/blog/15-animation-tips-to-make-your-mobile-games-more-engaging/)
 - [The pain of animation](https://t.co/o2vUZaTgKv)
+- [Video of the Principles](https://www.youtube.com/watch?v=haa7n3UGyDc)
