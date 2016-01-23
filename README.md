@@ -11,7 +11,7 @@ It is divided into 6 sections:
 - [The Code Process](https://github.com/TutorialDoctor/Software_Development/blob/master/5%20Code%20Process.md)
 - [Create](https://github.com/TutorialDoctor/Software_Development/blob/master/6%20Create.md)
 
-First you will **learn** how to program using the **Python** (version **2.7**) language. Then you will **play** with various programs. Next you get links to **resources**. Lastly you **create** a video game using the Godot game engine API.
+First you will **learn** how to program using the **Python** (version **2.7**) language. Then you will **play** with various programs. Next you get links to **resources**. Lastly you **create** a video game using the Godot game engine API, a website using html, css, and javascript, and a few databases using **sqlite3** and Python.
 
 ## Notes
 - This is intended for beginners who want to dive into the software development industry.
