@@ -24,3 +24,6 @@ connection.close()
 # You will get an error if you create a table twice as it will already exist. You may alter a table though.
 # We will see how to do this later. 
 
+# As a note, sql commands are usually typed with all caps to distinguish them from variables:
+# SELECT * from information
+# INSERT INTO information VALUES (...)
