@@ -12,7 +12,7 @@ cursor = connection.cursor()
 cursor.execute("create table information (date text, name text, age integer, height real)")
 
 # To insert data into the table with the cursor:
-cursor.exectute("insert into information values ('1986-04-09','John Doe',28,6.1)")
+cursor.execute("insert into information values ('1986-04-09','John Doe',28,6.1)")
 
 # That is all you need to do to create a database!
 # You can commit the changes to the connected database:
