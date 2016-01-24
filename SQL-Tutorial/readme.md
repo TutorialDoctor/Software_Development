@@ -9,4 +9,4 @@ I will show how to save sql databases as .sql and also how to save it to .csv fo
 
 Resources I am using to learn SQL for this tutorial are:
 - http://sql.learncodethehardway.org/book/introduction.html
-
+- An open source databse [browser](http://sqlitebrowser.org) for SQLite. This is good for testing the SQL files you create in python.
