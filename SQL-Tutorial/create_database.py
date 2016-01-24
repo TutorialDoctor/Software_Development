@@ -3,6 +3,7 @@ import sqlite3
 
 # Connect to a database:
 connection = sqlite3.connect('people.db')
+# If people.db is does not already exist, it will be created.
 
 # Create a cursor for querying (moving through) the database:
 cursor = connection.cursor()
