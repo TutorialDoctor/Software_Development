@@ -8,7 +8,7 @@ connection = sqlite3.connect('people.db')
 # Create a cursor for querying (moving through) the database:
 cursor = connection.cursor()
 
-# Now we can create a table with the cursor called information:
+# Now we can create a table with the cursor called 'information':
 cursor.execute("create table information (date text, name text, age integer, height real)")
 
 # To insert data into the table with the cursor:
