@@ -6,4 +6,4 @@
 
 - Brackets is a modern, open source text editor that understands web design.
 
-~~[Databases](https://en.wikipedia.org/wiki/Database) with [Sqlite](https://www.sqlite.org)~~ and [Python](https://www.python.org)
+~~[Databases](https://en.wikipedia.org/wiki/Database) with [Sqlite](https://www.sqlite.org) and [Python](https://www.python.org)~~
