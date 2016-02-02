@@ -140,7 +140,7 @@ print location[0]
 
 # Functions
 ___
-A **function** is a group of statements. They are usually named like verbs, because functions can **do stuff** to **verbs**. You can blend() an apple. You can also cut() an apple. blend() and cut() would be functions in your program. Making a function is called defining the function. Running the function is called calling the function. You call a function by typing the name of the function and putting a little mouth (parenthesis) after the name.
+A **function** is a group of statements. They are usually named like verbs, because functions can **do stuff** to **verbs**. You can blend() an apple. You can also cut() an apple. blend() and cut() would be functions in your program. Making a function is called defining the function. Running the function is called calling the function. You **call a function** by typing the name of the function and putting a little mouth (parenthesis) after the name.
 
 <pre>
 FUNCTION
