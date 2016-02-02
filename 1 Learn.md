@@ -102,22 +102,27 @@ The basic types of variables in a computer program are the:
 
 <pre>
 VARIABLES
+# Strings
 first_name = 'Raphael'
 last_name = 'Smith'
 
+# Integer
 age = 29
 
+# Float
 height = 6.3
 
+# Array/List
 hobbies = ['Art','Science','Programming','Game Development']
 
+# Dictionary
 definition = {
               'Program':'A recipe for a computer',
               'Variable':'The ingredient of a computer program',
               'Statement':'The instruction of a computer program',
               'Function':'A group of statements'
               }
-
+# Tuple
 location = (47.6,122.33) #Seattle Washington N/W
 
 print first_name + last_name
