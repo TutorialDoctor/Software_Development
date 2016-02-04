@@ -98,6 +98,7 @@ by: The Tutorial Doctor
 - [Tuts +](http://gamedevelopment.tutsplus.com)
 - [Codecademy](https://www.codecademy.com/learn)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+- [Andy Wicks](https://www.youtube.com/user/edulevel/videos)
  
 ### Technology
 - [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)
