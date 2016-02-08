@@ -11,7 +11,7 @@ It is divided into 6 sections:
 - [The Code Process](https://github.com/TutorialDoctor/Software_Development/blob/master/5%20Code%20Process.md)
 - [Create](https://github.com/TutorialDoctor/Software_Development/blob/master/6%20Create.md)
 
-First you will **learn** how to program using the **Python** (version **2.7**) language. Then you will **play** with various programs. Next you get links to **resources**. Lastly you **create** [video **games**](https://github.com/TutorialDoctor/TD-Godot-Games) using the Godot game engine API, a [**website**](https://github.com/TutorialDoctor/Programming-Language-Tutorials/tree/master/WebDev%20Tutorial) using html, css, and javascript, and a few [**databases**](https://github.com/TutorialDoctor/Programming-Language-Tutorials/tree/master/SQL-Tutorial) using **sqlite3** and Python.
+First you will **learn** how to program using the **Python** (version **2.7**) language. Then you will **play** with various programs. Next you get links to **resources**. Lastly you **create** [video **games**](https://github.com/TutorialDoctor/TD-Godot-Games) using the Godot game engine API, a [**website**](https://github.com/TutorialDoctor/Programming-Language-Tutorials/tree/master/Web%20Development) using html, css, and javascript, and a few [**databases**](https://github.com/TutorialDoctor/Programming-Language-Tutorials/tree/master/SQL-Tutorial) using **sqlite3** and Python.
 
 ## Notes
 - This is intended for beginners who want to dive into the software development industry.
