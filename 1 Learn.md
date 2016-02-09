@@ -521,4 +521,5 @@ ___
 
 Note: Throughout the process  I use the **print** function to test stuff.
 
-To get started with python, check out my [Python Syntax](https://gist.github.com/TutorialDoctor/dda76e58fc43d7375856) script.
+- To get started with python, check out my [Python Syntax](https://gist.github.com/TutorialDoctor/dda76e58fc43d7375856) script.
+- A food recipe script based on this analogy can be found [here](https://github.com/TutorialDoctor/Scripts-for-Kids/blob/master/Python/velveeta.py)
