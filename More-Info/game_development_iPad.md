@@ -9,5 +9,6 @@
 - Codea is built on the Lua programming language. A simple, elegant language that doesn't rely too much on symbols — a perfect match for iPad.
 
 ## [Pythonista](http://omz-software.com/pythonista/)
-- Pythonista's professional code editor provides syntax highlighting, smart code completion, and an extended on-screen keyboard specifically designed for Python.
+- Pythonista is a complete development environment for writing Python™ scripts on your iPad or iPhone.
+- Lots of examples are included — from games and animations to plotting, image manipulation, custom user interfaces, and automation scripts.
 - Pythonista comes with easy-to-use libraries for 2D graphics, multitouch and sound effects. You can even use the accelerometer to create motion-controlled games or interactive experiments.
