@@ -99,6 +99,7 @@ by: The Tutorial Doctor
 - [Codecademy](https://www.codecademy.com/learn)
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Andy Wicks](https://www.youtube.com/user/edulevel/videos)
+- [HTML Standard](https://html.spec.whatwg.org/multipage/semantics.html)
  
 ### Technology
 - [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)
