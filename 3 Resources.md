@@ -11,7 +11,7 @@ font-size:">
 by: The Tutorial Doctor
 </p>
 
-# Game Development  Resources
+# Development  Resources
 
 ## TOOLS
 - IDEs and Editors
