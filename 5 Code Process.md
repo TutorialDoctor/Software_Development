@@ -25,7 +25,7 @@ The main process for creating any product is:
 - Polish
 - Package
 
-First, describe the product. The better the description, the easier it is to **stay true** to the idea. Create a prototype **Don't deviate** from the working prototype. Refine the product. Refining is the longest stage (**tweaking**). Polish the product. The polish stage shouldn't add new features, but **enhance** existing ones. Package your product in an **easy to access and use** way (consider this in the beginning).
+First, describe the product. The better the description, the easier it is to **stay true** to the idea. Create a prototype **Don't deviate** from the working prototype. Refine the product. Refining is the longest stage (**tweaking**). Polish the product. The polish stage shouldn't add new features but **enhance** existing ones. Package your product in an **easy to access and use** way (consider this in the beginning).
 
 ## The Code/Development Process
 ___
