@@ -48,7 +48,7 @@ Then I sift through the **API** to see if I can find any functions or additional
 
 Lastly, I use conditional statements, loops, and classes (if necessary), to **write the program**. 
 
-For complicated tasks, or for more efficient programs, you could try searching for **libraries/modules** online, and import them for your own use.
+For complicated tasks or for more efficient programs, you could try searching for **libraries/modules** online and import them for your own use.
 
 # Problem solving (logic & reasoning)
 You will run into problems. Two types of problem solving are:
