@@ -1,3 +1,5 @@
+ Draft
+ 
 - A **database** is a structured **set of data** stored in a computer 
 - To **query** is to seek or ask. It is a precise **request for information** from a database. When you enter text into **Google's search** field, you are entering a query (a precise request for information)  from Google's database. This is called a "**web search query**."
 - A **Query language** is a computer language **used to make queries** into databases and information systems
