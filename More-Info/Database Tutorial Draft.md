@@ -3,24 +3,24 @@ First, [learn about computer programming](https://github.com/TutorialDoctor/Soft
 *Rough Draft* **March 12, 201612:27 PM**
 
 ## Notes from research
- 
+<strike style=color:red>
 - A **database** is a structured **set of data** stored in a computer 
 - To **query** is to seek or ask. It is a precise **request for information** from a database. When you enter text into **Google's search** field, you are entering a query (a precise request for information)  from Google's database. This is called a "**web search query**."
 - A **Query language** is a computer language **used to make queries** into databases and information systems
 - **SQL** is a **Structured Query Language**  for database manipulation. It is a structured language used to request precise information from a database. 
 - DBMS (Database Management  System)
--  Relational database - a database structured to recognize relations among stored items of information. tables rows columns.
--  The question mark is usually used to denote a query (question).
+- Relational database - a database structured to recognize relations among stored items of information. tables rows columns.
+- The question mark is usually used to denote a query (question).
 
 - store clerks = database management system 
 - store warehouse  = database 
 - aisles = tables (snacks)
 - shelf columns = fields?
 - rows = rows/records 
-- customer question and clerk retrieval = query (do you have.. can you stock ...)
+- customer question and clerk retrieval = query (do you have.. can you stock ...)</strike>
 
 ## Tutorial (WIP)
-A **database** is like a store or **warehouse** where things are stored. Every store/warehouse usually stores their things in a relational sort of way. The housewares section of the store stores things related to "things in a house." The grocery section of the store/warehouse stores things related to "editable items." A database where things are related to other things is called a **Relational Database**.
+A **database** is like a store or **warehouse** where things are stored. Every store/warehouse usually stores their things in a relational sort of way. The Housewares section of the store stores things related to "things in a house." The grocery section of the store/warehouse stores things related to "editable items." A database where things are related to other things is called a **Relational Database**.
 
 If the database is the store, the **staff** is the **Database Management System** (DBMS). The staff manages the database by adding to, taking from, and updating the things in the database.
 
