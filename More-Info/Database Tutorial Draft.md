@@ -1,4 +1,4 @@
- Draft
+## Notes from research
  
 - A **database** is a structured **set of data** stored in a computer 
 - To **query** is to seek or ask. It is a precise **request for information** from a database. When you enter text into **Google's search** field, you are entering a query (a precise request for information)  from Google's database. This is called a "**web search query**."
@@ -14,9 +14,15 @@
 - rows = rows/records 
 - customer question and clerk retrieval = query (do you have.. can you stock ...)
 
+## Tutorial (WIP)
+A **database** is like a store or **warehouse** where things are stored.Every store/warehouse usually stores their things in a relational sort of way. The housewares section of the store stores things related to "things in a house." The grocery section of the store/warehouse stores things related to "editable items." A database where things are related to other things is called a **Relational Database**.
 
-## Example:
+If the database is the store, the **staff** is the **Database Management System** (DBMS). The staff manages the database by adding to, taking from, and updating the things in the database.
 
+**SQL** is a relational database that stores data in tables. Tables are like the shelf columns in a store.
+
+
+## Example
 - database : Walmart
 - table : Fruit
 - record : banana = [PLU #4011,name banana, pricePerPound €12]
