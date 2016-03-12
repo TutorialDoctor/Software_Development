@@ -36,7 +36,6 @@ http://supermarketpage.com/prucodes.php
 
 Your brain has a relational database in it. This is why I use analogies, so that you can relate the topic I am explaining to a table that is already in your brain database. Now cooking and programming are related in your relational database.
 
-Oh, by the way, [learn how to program](https://github.com/TutorialDoctor/Software_Development)!
 
 Now lets [make something cool!](https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/UI/Password%20Database)
 
