@@ -33,6 +33,8 @@ Your boss is requesting a change or update in the database.
 
 ***Note:*** a PLU is a **price lookup code** and is stored in a [PLU database](http://supermarketpage.com/prucodes.php)
 
+And another [list of PLU codes](https://quizlet.com/12154470/common-produce-plu-codes-flash-cards/).
+
 Your brain has a relational database in it. This is why I use analogies, so that you can relate the topic I am explaining to a table that is already in your brain database. Now cooking and programming are related in your relational database.
 
 
