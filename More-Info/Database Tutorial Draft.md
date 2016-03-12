@@ -1,23 +1,6 @@
 First, [learn about computer programming](https://github.com/TutorialDoctor/Software_Development)
 
-*Rough Draft* **March 12, 201612:27 PM**
-
-## Notes from research
-<strike style=color:red>
-- A **database** is a structured **set of data** stored in a computer 
-- To **query** is to seek or ask. It is a precise **request for information** from a database. When you enter text into **Google's search** field, you are entering a query (a precise request for information)  from Google's database. This is called a "**web search query**."
-- A **Query language** is a computer language **used to make queries** into databases and information systems
-- **SQL** is a **Structured Query Language**  for database manipulation. It is a structured language used to request precise information from a database. 
-- DBMS (Database Management  System)
-- Relational database - a database structured to recognize relations among stored items of information. tables rows columns.
-- The question mark is usually used to denote a query (question).
-
-- store clerks = database management system 
-- store warehouse  = database 
-- aisles = tables (snacks)
-- shelf columns = fields?
-- rows = rows/records 
-- customer question and clerk retrieval = query (do you have.. can you stock ...)</strike>
+*Final Draft* **March 12, 2016 12:41 PM**
 
 ## Tutorial (WIP)
 A **database** is like a store or **warehouse** where things are stored. Every store/warehouse usually stores their things in a relational sort of way. The Housewares section of the store stores things related to "things in a house." The grocery section of the store/warehouse stores things related to "editable items." A database where things are related to other things is called a **Relational Database**.
@@ -55,7 +38,27 @@ Your brain has a relational database in it. This is why I use analogies, so that
 
 Oh, by the way, [learn how to program](https://github.com/TutorialDoctor/Software_Development)!
 
-Now lets ~~[make something cool!]()~~
+Now lets [make something cool!](https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/UI/Password%20Database)
 
 ## Check your understanding:
 - http://www.quackit.com/database/tutorial/
+
+
+
+## Notes from research
+<strike style=color:red>
+- A **database** is a structured **set of data** stored in a computer 
+- To **query** is to seek or ask. It is a precise **request for information** from a database. When you enter text into **Google's search** field, you are entering a query (a precise request for information)  from Google's database. This is called a "**web search query**."
+- A **Query language** is a computer language **used to make queries** into databases and information systems
+- **SQL** is a **Structured Query Language**  for database manipulation. It is a structured language used to request precise information from a database. 
+- DBMS (Database Management  System)
+- Relational database - a database structured to recognize relations among stored items of information. tables rows columns.
+- The question mark is usually used to denote a query (question).
+
+- store clerks = database management system 
+- store warehouse  = database 
+- aisles = tables (snacks)
+- shelf columns = fields?
+- rows = rows/records 
+- customer question and clerk retrieval = query (do you have.. can you stock ...)</strike>
+
