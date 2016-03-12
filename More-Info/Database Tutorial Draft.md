@@ -7,7 +7,7 @@ A **database** is like a store or **warehouse** where things are stored. Every s
 
 If the database is the store, the **staff** is the **Database Management System** (DBMS). The staff manages the database by adding to, taking from, and updating the things in the database.
 
-**SQL** is a relational database that stores data in tables. Tables are like the shelf columns in a store, or like tables in an outdoor marketplace. One table might store fruit for sell, while another might store birds for sell. Each fruit or bird in/on the table is a **record**, and have similar but different properties to the other records in/on the table. Each **property** is called a **field** in an SQL database.
+**SQL** is a relational database that stores data in tables. Tables are like the shelf columns in a store, or like tables in an outdoor marketplace. One table might store fruit for sell, while another might store birds for sell. Each fruit or bird in/on the table is a **record** and have similar but different properties to the other records in/on the table. Each **property** is called a **field** in an SQL database.
 
 A customer walks into the store and says, "Will you get me a regular banana that is cheaper than $2.00?" The customer has just made a **query** - a **precise request** for data - to **retrieve** data from a database.
 
@@ -25,7 +25,7 @@ Record : banana = [PLU #4011,name banana, pricePerPound €12]
 
 Customer query : "Do you have a regular banana cheaper than €12?"
 
-Boss query = "Switch those apples out for melons. the season is changing."
+Boss query = "Switch those apples out for melons, the season is changing."
 
 The customer is requesting an item from the database.
 Your boss is requesting a change or update in the database.
@@ -37,7 +37,7 @@ http://supermarketpage.com/prucodes.php
 Your brain has a relational database in it. This is why I use analogies, so that you can relate the topic I am explaining to a table that is already in your brain database. Now cooking and programming are related in your relational database.
 
 
-Now lets [make something cool!](https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/UI/Password%20Database)
+Now, let's [make something cool!](https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/UI/Password%20Database)
 
 ## Check your understanding:
 - http://www.quackit.com/database/tutorial/
