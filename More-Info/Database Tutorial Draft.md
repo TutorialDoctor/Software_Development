@@ -15,12 +15,19 @@
 - customer question and clerk retrieval = query (do you have.. can you stock ...)
 
 ## Tutorial (WIP)
-A **database** is like a store or **warehouse** where things are stored.Every store/warehouse usually stores their things in a relational sort of way. The housewares section of the store stores things related to "things in a house." The grocery section of the store/warehouse stores things related to "editable items." A database where things are related to other things is called a **Relational Database**.
+A **database** is like a store or **warehouse** where things are stored. Every store/warehouse usually stores their things in a relational sort of way. The housewares section of the store stores things related to "things in a house." The grocery section of the store/warehouse stores things related to "editable items." A database where things are related to other things is called a **Relational Database**.
 
 If the database is the store, the **staff** is the **Database Management System** (DBMS). The staff manages the database by adding to, taking from, and updating the things in the database.
 
-**SQL** is a relational database that stores data in tables. Tables are like the shelf columns in a store.
+**SQL** is a relational database that stores data in tables. Tables are like the shelf columns in a store, or like tables in an outdoor marketplace. One table might store fruit for sell, while another might store birds for sell.
 
+A customer walks into the store and says, "Will you get me a regular banana that is cheaper than $2.00?" The customer has just made a **query** - a **precise request** for data - to **retrieve** data from a database.
+
+Another customer says, "Please stock this item for my next visit." This customer has just made a query for data to be **inserted** into the database.
+
+If your boss walked up to you and told you to, "Switch those apples out for melons, the season is changing," then that would be a query too, and it is a request to **update** data in the database.
+
+To clarify, when you enter text into Google's search field, you are entering a query (a precise request for data) from Google's database. You have entered a "**web search query**."
 
 ## Example
 - database : Walmart
@@ -39,7 +46,7 @@ http://supermarketpage.com/prucodes.php
 
 Your brain has a relational database in it. This is why I use analogies, so that you can relate the topic I am explaining to a table that is already in your brain database. Now cooking and programming are related in your relational database.
 
-Now lets [make something cool!]()
+Now lets ~~[make something cool!]()~~
 
 ## Check your understanding:
 - http://www.quackit.com/database/tutorial/
