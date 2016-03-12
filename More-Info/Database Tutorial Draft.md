@@ -31,8 +31,7 @@ The customer is requesting an item from the database.
 Your boss is requesting a change or update in the database.
 </pre>
 
-***Note:*** a PLU is a **price lookup code** and is stored in a PLU database.
-http://supermarketpage.com/prucodes.php
+***Note:*** a PLU is a **price lookup code** and is stored in a [PLU database](http://supermarketpage.com/prucodes.php)
 
 Your brain has a relational database in it. This is why I use analogies, so that you can relate the topic I am explaining to a table that is already in your brain database. Now cooking and programming are related in your relational database.
 
