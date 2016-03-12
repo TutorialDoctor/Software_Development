@@ -1,3 +1,7 @@
+First, [learn about computer programming](https://github.com/TutorialDoctor/Software_Development)
+
+*Rough Draft* **March 12, 201612:27 PM**
+
 ## Notes from research
  
 - A **database** is a structured **set of data** stored in a computer 
@@ -6,6 +10,7 @@
 - **SQL** is a **Structured Query Language**  for database manipulation. It is a structured language used to request precise information from a database. 
 - DBMS (Database Management  System)
 -  Relational database - a database structured to recognize relations among stored items of information. tables rows columns.
+-  The question mark is usually used to denote a query (question).
 
 - store clerks = database management system 
 - store warehouse  = database 
@@ -19,7 +24,7 @@ A **database** is like a store or **warehouse** where things are stored. Every s
 
 If the database is the store, the **staff** is the **Database Management System** (DBMS). The staff manages the database by adding to, taking from, and updating the things in the database.
 
-**SQL** is a relational database that stores data in tables. Tables are like the shelf columns in a store, or like tables in an outdoor marketplace. One table might store fruit for sell, while another might store birds for sell.
+**SQL** is a relational database that stores data in tables. Tables are like the shelf columns in a store, or like tables in an outdoor marketplace. One table might store fruit for sell, while another might store birds for sell. Each fruit or bird in/on the table is a **record**, and have similar but different properties to the other records in/on the table. Each **property** is called a **field** in an SQL database.
 
 A customer walks into the store and says, "Will you get me a regular banana that is cheaper than $2.00?" The customer has just made a **query** - a **precise request** for data - to **retrieve** data from a database.
 
@@ -30,21 +35,25 @@ If your boss walked up to you and told you to, "Switch those apples out for melo
 To clarify, when you enter text into Google's search field, you are entering a query (a precise request for data) from Google's database. You have entered a "**web search query**."
 
 ## Example
-- database : Walmart
-- table : Fruit
-- record : banana = [PLU #4011,name banana, pricePerPound €12]
-- customer query = "do you have a regular banana cheaper than €12?"
-- boss query = "switch those apples out for melons. the season is changing."
+<pre>
+Database : Walmart
+Table : Fruit
+Record : banana = [PLU #4011,name banana, pricePerPound €12]
 
-the customer is requesting an item from the database.
-your boss is requesting a change or update in the database.
+Customer query : "Do you have a regular banana cheaper than €12?"
 
-The question mark is usually used to denote a query (question).
+Boss query = "Switch those apples out for melons. the season is changing."
 
-PLU = price lookup code. stored in a PLU database
+The customer is requesting an item from the database.
+Your boss is requesting a change or update in the database.
+</pre>
+
+***Note:*** a PLU is a **price lookup code** and is stored in a PLU database.
 http://supermarketpage.com/prucodes.php
 
 Your brain has a relational database in it. This is why I use analogies, so that you can relate the topic I am explaining to a table that is already in your brain database. Now cooking and programming are related in your relational database.
+
+Oh, by the way, [learn how to program](https://github.com/TutorialDoctor/Software_Development)!
 
 Now lets ~~[make something cool!]()~~
 
