@@ -18,7 +18,7 @@ The first sub-class of the Object Class is the **Node Class**. The Node class is
 
 ## Choose a node
 
-The first class of the Node Class is the CanvasItem Class. This class is the base class for all 2D Godot objects. Every Godot scene/level must have a root node. (and it can't be saved without one). There are three main types of root nodes in Godot.
+The first class of the Node Class is the CanvasItem Class. This class is the base class for all 2D Godot objects. Every Godot scene/level must have a root node and it can't be saved without one. There are three main types of root nodes in Godot.
 
 - Control
 	- **Control** nodes are for graphical user interfaces **(GUI)s** and can be used to make **game menus**. You can identify them by their **green** color.
