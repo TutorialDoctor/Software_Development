@@ -4,7 +4,7 @@
 - Create interactive apps by importing graphics, sounds, and fonts. Then use the intuitive drag and drop interface to put your scenes together.
 - Export your app as an Xcode project and use Objective-C or Swift along with our APIs to manipulate objects in your scene.
 
-## [Processing](https://itunes.apple.com/us/app/processing-for-ios-javascript/id492576043?mt=8)
+## [Processing](https://itunes.apple.com/us/app/processing-for-ios-javascript/id492576043?mt=8) (Free)
 Processing is an **open source programming language** and environment for people who want to create **images, animations, and interactions**. Initially developed to serve as a **software sketchbook** and to teach **fundamentals of computer programming** within a visual context, Processing also has evolved into a tool for generating finished professional work. Today, there are tens of thousands of **students, artists, designers, researchers, and hobbyists** who use Processing for **learning, prototyping, and production.**
 
 ## [Codea](https://codea.io) ($14.99)
