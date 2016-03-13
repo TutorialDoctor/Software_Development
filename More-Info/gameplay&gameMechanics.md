@@ -46,4 +46,4 @@ Give the player a clear **objective**/goal with **obstacles** to prevent them fr
     
 [@TutorialDoctor]()
 
-Note: missing "Penalty." There has to be some sort of penalty for not reaching the objectives
+**Note**: missing "Penalty." There has to be some sort of penalty for not reaching the objectives
