@@ -7,7 +7,7 @@ A **database** is like a store or **warehouse** where things are stored. Every s
 
 If the database is the store, the **staff** is the **Database Management System** (DBMS). The staff manages the database by adding to, taking from, and updating the things in the database.
 
-A relational database is a database that stores data in tables. Tables are like the shelf columns in a store, or like tables in an outdoor marketplace. One table might store fruit for sell, while another might store birds for sell. Each fruit or bird in/on the table is a **record** and have similar but different properties to the other records in/on the table. Each **property** is called a **field** in an sqlite database.
+In a relational database like a **sqlite** databse, data is store in tables. Tables are like the shelf columns in a store, or like tables in an outdoor marketplace. One table might store fruit for sell, while another might store birds for sell. Each fruit or bird in/on the table is a **record** and have similar but different properties to the other records in/on the table. Each **property** is called a **field** in an sqlite database.
 
 A customer walks into the store and says, "Will you get me a regular banana that is cheaper than $2.00?" The customer has just made a **query** - a **precise request** for data - to **retrieve** data from a database.
 
