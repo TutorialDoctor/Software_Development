@@ -52,6 +52,7 @@ by: The Tutorial Doctor
 ## Engines
 - [Maratis](http://www.maratis3d.org)
 - [Stencyl](http://www.stencyl.com) $ (free for web)
+- [Atomic Engine](http://atomicgameengine.com)
 - [Paradox](http://paradox3d.net)
 - [Wave](https://waveengine.net)
 - [GameMaker](http://www.yoyogames.com/studio) $ (features cost)
