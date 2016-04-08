@@ -101,6 +101,7 @@ by: The Tutorial Doctor
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 - [Andy Wicks](https://www.youtube.com/user/edulevel/videos)
 - [HTML Standard](https://html.spec.whatwg.org/multipage/semantics.html)
+- [Build a Web app fast!](http://www.pixelmonkey.org/2012/06/14/web-app)
  
 ### Technology
 - [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)
