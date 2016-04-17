@@ -45,7 +45,7 @@ by: The Tutorial Doctor
 
 ## Sound Tools
 - [Audacity](http://audacityteam.org)
-
+- [Bfxr](http://www.bfxr.net)
 ## Video Tools
 - [Handbrake](https://handbrake.fr/features.php)
 
