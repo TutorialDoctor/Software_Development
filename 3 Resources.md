@@ -36,6 +36,7 @@ by: The Tutorial Doctor
 	- [Pixelmator](http://www.pixelmator.com) - Raster Art (IOS) $
 	- [Touchdraw](http://elevenworks.com/touchdraw/ipad/) - Vector Art (IOS/OSX) $
 	- [Procreate](http://procreate.si) (IOS) $
+        - [Sketch]()
 - 3D
 	- [Sketchup](http://www.sketchup.com)
 	- [Blender](http://www.blender.org)
@@ -49,6 +50,7 @@ by: The Tutorial Doctor
 
 ## Video Tools
 - [Handbrake](https://handbrake.fr/features.php)
+- [Open Braodcaster](https://obsproject.com)
 
 ## Engines
 - [Maratis](http://www.maratis3d.org)
