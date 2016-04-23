@@ -91,6 +91,8 @@ by: The Tutorial Doctor
 	- [Flaticon](http://www.flaticon.com/packs/2)
 - Sound Effects
 	- [Sound Jay](http://www.soundjay.com)
+- Music
+	- [Free Music Archive](http://freemusicarchive.org)
 
 ## Map Editors
 - [Tiled](http://www.mapeditor.org)
