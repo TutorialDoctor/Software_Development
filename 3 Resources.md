@@ -36,7 +36,7 @@ by: The Tutorial Doctor
 	- [Pixelmator](http://www.pixelmator.com) - Raster Art (IOS) $
 	- [Touchdraw](http://elevenworks.com/touchdraw/ipad/) - Vector Art (IOS/OSX) $
 	- [Procreate](http://procreate.si) (IOS) $
-	- [Sketch](https://www.sketchapp.com)
+	- [Sketch](https://www.sketchapp.com) $
 - 3D
 	- [Sketchup](http://www.sketchup.com)
 	- [Blender](http://www.blender.org)
