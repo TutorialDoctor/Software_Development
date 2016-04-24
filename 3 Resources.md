@@ -37,7 +37,7 @@ by: The Tutorial Doctor
 	- [Touchdraw](http://elevenworks.com/touchdraw/ipad/) - Vector Art (IOS/OSX) $
 	- [Procreate](http://procreate.si) (IOS) $
 	- [Sketch](https://www.sketchapp.com) $
-	- [Afiinity Designer](https://affinity.serif.com/en-us/designer/) Raster Art $
+	- [Affiinity Designer](https://affinity.serif.com/en-us/designer/) Raster Art $
 	- [Principle](http://principleformac.com) $
 - 3D
 	- [Sketchup](http://www.sketchup.com)
