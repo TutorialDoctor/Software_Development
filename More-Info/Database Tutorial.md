@@ -3,7 +3,7 @@ First, [learn about computer programming](https://github.com/TutorialDoctor/Soft
 *Final Draft* **March 12, 2016 12:41 PM**
 
 ## Tutorial (WIP)
-A **database** is like a store or **warehouse** where things are stored. Every store/warehouse usually stores their things in a relational sort of way. The Housewares section of the store stores things related to "things in a house." The grocery section of the store/warehouse stores things related to "editable items." A database where things are related to other things is called a **Relational Database**.
+A **database** is like a store or **warehouse** where things are stored. Every store/warehouse usually stores their things in a relational sort of way. The Housewares section of the store stores things related to "things in a house." The grocery section of the store/warehouse stores things related to "edible" items." A database where things are related to other things is called a **Relational Database**.
 
 If the database is the store, the **staff** is the **Database Management System** (DBMS). The staff manages the database by adding to, taking from, and updating the things in the database.
 
