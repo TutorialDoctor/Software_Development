@@ -9,7 +9,7 @@ If the database is the store, the **staff** is the **Database Management System*
 
 In a relational database like a **SQLite** databse, data is store in **tables**. Tables are like the shelf columns in a store, or like tables in an outdoor marketplace. One table might store fruit for sell while another might store birds for sell. Each fruit or bird in/on the table is a **record** and has similar but different properties to the other records in/on the table. Each **property** is called a **field** in a SQLite database.
 
-A customer walks into the store and says, "Will you get me a regular banana that is cheaper than $2.00?" The customer has just made a **query** - a **precise request** for data - to **retrieve** data from a database.
+A customer walks into a store and says, "Will you get me a regular banana that is cheaper than $2.00?" The customer has just made a **query** - a **precise request** for data - to **retrieve** data from a database.
 
 Another customer says, "Please stock this item for my next visit." This customer has just made a query for data to be **inserted** into the database.
 
