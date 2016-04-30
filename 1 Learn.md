@@ -161,7 +161,7 @@ print sum(93943,542434)
 - You can blend apples as well as oranges. You can cut fruit as well as onions. An argument is a variable that can be **switched out** for another.
 
 ## Return Value
-- A blender could just blend() an apple. But often you want it to blend() the apple and then return the fruit smoothie. The smoothie would be the return value of the blend() function. The blend() **function  returns** an apple **smoothie**.
+- A blender could just blend() an apple but often you want it to blend() the apple and then return the fruit smoothie. The smoothie would be the return value of the blend() function. The blend() **function  returns** an apple **smoothie**.
 
 # Conditionals(Flow control) (Flow control)
 ___
