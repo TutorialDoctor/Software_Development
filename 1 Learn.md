@@ -40,7 +40,7 @@ by: The Tutorial Doctor
 A summary of this document can be found [here](https://github.com/TutorialDoctor/Software_Development/blob/master/More-Info/Learn%20Summary.md)
 # Intro 
 ___
-A **computer program** is a **recipe** for a computer. The computer reads the recipe and  you get a game like **Angry Birds**, a word processor like **Microsoft Office**, or a website like Youtube.
+A **computer program** is a **recipe** for a computer. The computer reads the recipe and  you get a game like **Angry Birds**, a word processor like **Microsoft Office**, or a website like **Youtube**.
 
 Recipes have various **ingredients**. They also have directions/ **instructions** for using those ingredients.	
 
