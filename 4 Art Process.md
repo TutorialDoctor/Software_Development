@@ -41,7 +41,7 @@ A **point** describes a **location.** A **line** describes an **angle** and a **
 
 The two most basic skills you should master is to be able to draw a **perfect line** (from any angle) and a **perfect circle**, at any size. Additionally, practice drawing primitive shapes several times, exactly the same. Practice!
 
-**Curves are lines**. **Don't draw curves** (hard and usually inaccurate), draw straight lines (easy and accurate). You can modify them if you need to later (draw lightly at first).
+**Curves are lines**. **Don't draw curves** (hard and usually inaccurate). Draw straight lines (easy and accurate). You can modify them if you need to later (draw lightly at first).
 
 ### 2D Art Process
 1. **Sketch** (Describe)
@@ -51,7 +51,7 @@ The two most basic skills you should master is to be able to draw a **perfect li
 5. **Shading** (Polish)
 6. **Details** (Polish)
 
-Sketch the idea first. Compose the image using primitive shapes (square, triangle, circle). Refine the primitive shapes to get an accurate silhouette. Give a base color to the silhouette (usually the mid-tone). Add shapes for the highlights and shadows. Shade/blend between the mid-tones, highlights and shadows. Lastly, add details. Add only the information you need to convey the image. Nothing more!
+Sketch the idea first. Compose the image using primitive shapes (square, triangle, circle). Refine the primitive shapes to get an accurate silhouette. Give a base color to the silhouette (usually the mid-tone). Add shapes for the highlights and shadows. Shade/blend between the mid-tones, highlights, and shadows. Lastly, add details. Add only the information you need to convey the image. Nothing more!
 
 ![rock](https://cloud.githubusercontent.com/assets/12942803/9608739/d66a1214-509d-11e5-8533-e7b0a454815a.jpg)
 
