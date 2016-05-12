@@ -12,7 +12,7 @@ It is definitely good to have a mentor. When times get hard, someone who is high
 
 We tackle these paths blindly at times, searching for that light at the end of the tunnel. Hopefully that light is good light. 
 
-Don't just learn. Learn good (and yes I mean good).
+Don't just learn, learn good (and yes I mean good).
 
 
 > Tutorial Doctor
