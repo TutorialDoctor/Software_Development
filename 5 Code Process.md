@@ -46,7 +46,7 @@ I then note all of the **verbs** in the description (verbs end up being **functi
 
 Then I sift through the **API** to see if I can find any functions or additional variables that do what I need. If not, I will have to either make a custom function, or search **google** for it. 
 
-Lastly, I use conditional statements, loops, and classes (if necessary), to **write the program**. 
+Lastly, I use conditional statements, loops, and classes if necessary, to **write the program**. 
 
 For complicated tasks or for more efficient programs, you could try searching for **libraries/modules** online and import them for your own use.
 
