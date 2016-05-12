@@ -20,11 +20,11 @@ By the Tutorial Doctor
 # The Summarized Process
 The main process for creating any product is:
 
-- Describe
-- Prototype
-- Refine
-- Polish
-- Package
+- Describe it
+- Prototype it
+- Refine it
+- Polish it
+- Package it
 
 First, describe the product. The better the description the easier it is to **stay true** to the idea. Create a prototype **Don't deviate** from the working prototype. Refine the product. Refining is the longest stage (**tweaking**). Polish the product. The polish stage shouldn't add new features but it should **enhance** existing ones. Package your product in an **easy to access and use** way (consider this in the beginning).
 
