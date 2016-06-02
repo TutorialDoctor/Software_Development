@@ -37,10 +37,10 @@ by: The Tutorial Doctor
 	- [Touchdraw](http://elevenworks.com/touchdraw/ipad/) - Vector Art (IOS/OSX) $
 	- [Procreate](http://procreate.si) (IOS) $
 	- [Sketch](https://www.sketchapp.com) $
-	- [Affiinity Designer](https://affinity.serif.com/en-us/designer/) Raster Art $
+	- [Affiinity Designer](https://affinity.serif.com/en-us/designer/) Vector Art $
 	- [Principle](http://principleformac.com) $
-	- [Pixelmator](http://www.pixelmator.com/mac/) $ (Photoshop)
-	- [Affinity Photo](https://affinity.serif.com/en-us/photo/) $ (Photoshop)
+	- [Pixelmator](http://www.pixelmator.com/mac/) $ Raster Art
+	- [Affinity Photo](https://affinity.serif.com/en-us/photo/) Raster Art $
 - 3D
 	- [Sketchup](http://www.sketchup.com)
 	- [Blender](http://www.blender.org)
