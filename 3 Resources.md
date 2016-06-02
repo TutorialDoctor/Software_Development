@@ -39,6 +39,8 @@ by: The Tutorial Doctor
 	- [Sketch](https://www.sketchapp.com) $
 	- [Affiinity Designer](https://affinity.serif.com/en-us/designer/) Raster Art $
 	- [Principle](http://principleformac.com) $
+	- [Pixelmator](http://www.pixelmator.com/mac/) $ (Photoshop)
+	- [Affinity Photo](https://affinity.serif.com/en-us/photo/) $ (Photoshop)
 - 3D
 	- [Sketchup](http://www.sketchup.com)
 	- [Blender](http://www.blender.org)
