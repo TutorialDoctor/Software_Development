@@ -41,7 +41,7 @@ Another type of request is an HTTPS (Hypertext Transfer Protocol Secured) reques
 This is an encrypted (secure/private) request. Sometimes you don’t want everyone to know what you are getting.
 
 
-[Another definition](http://techterms.com/definition/server) says that a servers is a computer that provides data to another computer.
+[Another definition](http://techterms.com/definition/server) says that a server is a computer that provides data to another computer.
 
 It may serve data to systems on a local area network (LAN) or a wide area network (WAN) over the internet.
 
