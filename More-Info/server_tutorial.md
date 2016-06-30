@@ -2,7 +2,8 @@
 
 Tutorial coming...
 
-Notes:
+
+**Notes**:
 <strike>
 
 You’re sitting at a restaurant and you are ready to eat.
