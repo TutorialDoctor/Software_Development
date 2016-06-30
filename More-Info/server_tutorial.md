@@ -11,7 +11,7 @@ A server comes to the table and asks you what you want to eat.
 
 You request some food, the server responds to that request by sending it to the cooks. The cooks retrieve the ingredients they need for your request and assemble them for you (they cook your food) and give it to the server. Then the server gives it to you.
 
-“In a technical sense, a server is an instance of a computer program that accepts and responds to requests made by another computer program; know as the client. Less formally, any device that runs server software could be considered as a server as well. Servers are used to mange network resources.”
+> “In a technical sense, a server is an instance of a computer program that accepts and responds to requests made by another computer program; know as the client. Less formally, any device that runs server software could be considered as a server as well. Servers are used to mange network resources.”
 
 
 The customer is the client, the server is the server. The airway through which you communicate is the network. Servers can access databases (storehouses) and serve that information to you.
