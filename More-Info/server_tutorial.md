@@ -3,7 +3,7 @@
 Tutorial coming...
 
 
-**Notes**:
+Notes:
 <strike>
 
 You’re sitting at a restaurant and you are ready to eat.
@@ -29,6 +29,9 @@ A web server serves web content like HTML, CSS and Javascript.
 
 A media server serves media like pictures and movies.
 
+There are game servers and database servers and file servers and mail servers and print servers and web servers and application servers.
+
+
 If a program is a recipe and a database is a storehouse for data, servers take one recipe request, perhaps accesses a database to retrieve the data needed, and serves the actual receive to the client.
 
 One type of request you may have heard of is an HTTP (Hypertext Transfer Protocol) request.
@@ -42,7 +45,13 @@ Another type of request is an HTTPS (Hypertext Transfer Protocol Secured) reques
 This is an encrypted (secure/private) request. Sometimes you don’t want everyone to know what you are getting.
 
 
-[Another definition](http://techterms.com/definition/server) says that a server is a computer that provides data to another computer.
+[Another definition](http://techterms.com/definition/server) says that a servers is a computer that provides data to another computer.
 
-It may serve data to systems on a local area network (LAN) or a wide area network (WAN) over the internet.
+It may serve data to systems on a local area network (LAN) or a wide area network (WAN) over the internet. On a LAN network, data is typically served from one computer to another via an Ethernet cable. 
+
+Facebook serves billions of clients a day. The server that is Facebook is one serious computer.
+
+Client-server systems follow a request-response model. A client sends a request to the server and eventually gets a response back - a result.
+
+> “A single server can serve multiple clients, and a single client can use multiple servers”
 
