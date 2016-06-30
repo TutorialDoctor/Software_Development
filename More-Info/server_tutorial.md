@@ -1,3 +1,7 @@
+# What is a Server?
+
+Tutorial coming...
+
 ## Notes (WIP):
 
 <strike>You’re sitting at a restaurant and you are ready to eat.
