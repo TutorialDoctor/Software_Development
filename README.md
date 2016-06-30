@@ -17,7 +17,7 @@ First you will **learn** how to program using the **Python** (version **2.7**) l
 - This is intended for beginners who want to dive into the software development industry.
 
 - For an easy start, you can use the [Brackets IDE](http://brackets.io) to practice Python. There is an extenssion that allows you to run Python and Ruby scripts. To download, go to File/Extension Manager within Brackets and search "Python."
-The link to the repository for the extension is [here](https://github.com/jadbox/brackets-integrated-development). As a note, this extension cannot use the **raw_input()** and **input()** functions.
+The link to the repository for the extension is [here](https://github.com/jadbox/brackets-integrated-development). As a note, this extension cannot use the ```raw_input()``` and ```input()``` functions.
 
 - If you have an iPad the [Pythonista](https://itunes.apple.com/app/pythonista/id528579881) and [Editorial](https://itunes.apple.com/us/app/editorial/id673907758?mt=8) are worth the purchase. I used Editorial to learn Python myself. No additional installations are required. 
 
