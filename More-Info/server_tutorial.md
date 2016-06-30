@@ -2,9 +2,10 @@
 
 Tutorial coming...
 
-## Notes (WIP):
+Notes:
+<strike>
 
-<strike>You’re sitting at a restaurant and you are ready to eat.
+You’re sitting at a restaurant and you are ready to eat.
 
 A server comes to the table and asks you what you want to eat.
 
@@ -40,6 +41,7 @@ Another type of request is an HTTPS (Hypertext Transfer Protocol Secured) reques
 This is an encrypted (secure/private) request. Sometimes you don’t want everyone to know what you are getting.
 
 
+[Another definition](http://techterms.com/definition/server) says that a servers is a computer that provides data to another computer.
 
-
+It may serve data to systems on a local area network (LAN) or a wide area network (WAN) over the internet.
 
