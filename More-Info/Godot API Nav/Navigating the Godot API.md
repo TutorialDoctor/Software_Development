@@ -102,4 +102,4 @@ Since the Node Class is a sub-class of the Object Class, it inherits all traits 
 
 - ~~[Link to Godot syntax]()~~
 - ~~[Link to Godot Process]()~~
-- [GD script reference](http://www.godotengine.org/projects/godot-engine/wiki/GDScript)
+- [GD script reference](http://docs.godotengine.org/en/latest/)
