@@ -44,6 +44,7 @@ Now, let's [make something cool!](https://github.com/TutorialDoctor/Pythonista-P
 - http://www.quackit.com/database/tutorial/
 
 Great document on [database design](http://www.dartmouth.edu/~bknauff/dwebd/2004-02/DB-intro.pdf)
+
 [Visualization of Records](https://github.com/robertrouse/KJV-bible-database-with-metadata-MetaV-/blob/master/CSV/PeopleGenderCorrections.csv)
 
 
