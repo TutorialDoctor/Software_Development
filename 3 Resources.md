@@ -41,6 +41,7 @@ by: The Tutorial Doctor
 	- [Principle](http://principleformac.com) $
 	- [Pixelmator](http://www.pixelmator.com/mac/) $ Raster Art
 	- [Affinity Photo](https://affinity.serif.com/en-us/photo/) Raster Art $
+	- [Dragon Bones](http://dragonbones.com/en/download.html#.V9nz7GNy5Nk) 2D Animation
 - 3D
 	- [Sketchup](http://www.sketchup.com)
 	- [Blender](http://www.blender.org)
