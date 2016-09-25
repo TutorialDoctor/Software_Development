@@ -100,7 +100,7 @@ The basic types of variables in a computer program are the:
 	- Dictionary
 	- Boolean	
 
-A **character** is a letter. A **string** is a string of letters/symbols. An integer is a number. A float is a number with a decimal. An array is a list of variables. A dictionary is an associative array -- A list that pairs several variables with several values. A boolean is either True or False.
+A **character** is a letter. A **string** is a string of letters/symbols. An integer is a number. A **float** is a number with a decimal. An **array** is a list of variables. A **dictionary** is an associative array -- A list that associates/pairs several variables with several values (called key-value pairs). A boolean is either True or False.
 
 <pre>
 VARIABLES
