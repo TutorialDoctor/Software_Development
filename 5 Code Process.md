@@ -133,7 +133,7 @@ def Play():
 	rock = False
 	paper = False 
 	scissors = False
-	if p1==p2:
+	if p1.upper()==p2.upper():
 		print "Tie"
 
 	if p1.upper()=="ROCK":
