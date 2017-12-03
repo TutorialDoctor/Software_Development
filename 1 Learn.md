@@ -42,7 +42,7 @@ A summary of this document can be found [here](https://github.com/TutorialDoctor
 ___
 A **computer program** is a **recipe** for a computer. The computer reads the recipe and  you get a game like **Angry Birds**, a word processor like **Microsoft Office**, or a website like **Youtube**.
 
-Recipes have various **ingredients**. They also have directions/ **instructions** for using those ingredients.	
+Recipes have various **ingredients**. They also have directions or **instructions** for using those ingredients.	
 
 The **ingredients** of a computer program are called **variables**.
 The **instructions** of a computer program are called **statements**.
