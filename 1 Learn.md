@@ -142,7 +142,7 @@ print location[0]
 
 # Functions
 ___
-A **function** is a group of statements. They are usually named like verbs, because functions can **do stuff** to **variables**. You can blend() an apple. You can also cut() an apple. blend() and cut() would be functions in your program. Making a function is called **defining** the function. Running the function is called **calling** the function. You **call a function** by typing the name of the function followed by a little mouth (parenthesis) after the name.
+A **function** is a group of statements. They are usually named like verbs because functions can **do stuff** to **variables**. You can blend() an apple. You can also cut() an apple. blend() and cut() would be functions in your program. Making a function is called **defining** the function. Running the function is called **calling** the function. You **call a function** by typing the name of the function followed by a little mouth/parenthesis after the name.
 
 <pre>
 FUNCTION
@@ -163,7 +163,7 @@ print sum(93943,542434)
 - You can blend apples as well as oranges. You can cut fruit as well as onions. An argument is a variable that can be **switched out** for another.
 
 ## Return Value
-- A blender could just blend() an apple but often you want it to blend() the apple and then return the fruit smoothie. The smoothie would be the return value of the blend() function. The blend() **function  returns** an apple **smoothie**.
+- A blender could just blend() an apple but often you want it to blend() the apple and then return the fruit smoothie. The smoothie would be the **return value** of the blend() function. The blend() **function  returns** an apple **smoothie**.
 
 # Conditionals(Flow control) (Flow control)
 ___
@@ -201,7 +201,7 @@ ___
 - A loops is how you make a computer **repeat** an instruction. You could make it repeat a single statement or a whole function. There are **two main types** of loop statements. There is the **while loop** and the **for loop**.
 
 ## While
-- A While Loop is like saying "**as long as**...." Short for "as long as" is "while." The computer will do something while a condition is met.	
+- A While Loop is like saying "**as long as**..." Short for "as long as" is "while." The computer will do something while a condition is met.	
 
 - You might say, "Blend the apple as long as the time is less than 10 seconds."
 
