@@ -26,6 +26,7 @@ by: The Tutorial Doctor
 	- [Editorial](http://omz-software.com/editorial/)(IOS)
 	- [Codea](http://twolivesleft.com/Codea/) (IOS)
 	- [Processing](https://processing.org)
+	- [Hyperpad](https://itunes.apple.com/us/app/hyperpad-visual-coding-on-ipad/id886106438?mt=8) (IOS)
 	
 ## Art tools (2d & 3d)
 - 2D
