@@ -94,12 +94,14 @@ by: The Tutorial Doctor
 	- [TF3DM](http://tf3dm.com)
 	- [3d Warehouse](https://3dwarehouse.sketchup.com/index.html)
 	- [Unsplash: Free Hi-Res Images](https://unsplash.com)
+	- [2D/3D Resources](https://www.spriters-resource.com)
 - Interface
 	- [Flaticon](http://www.flaticon.com/packs/2)
 - Sound Effects
 	- [Sound Jay](http://www.soundjay.com)
 - Music
 	- [Free Music Archive](http://freemusicarchive.org)
+	
 
 ## Map Editors
 - [Tiled](http://www.mapeditor.org)
