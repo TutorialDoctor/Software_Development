@@ -175,13 +175,13 @@ ___
 - Things will only happen if a condition is met.
 	
 ## If
-- The way you say "**if**" to a computer program is by using the "if" keyword.
+- The way you say "**if...**" to a computer program is by using the "if" keyword.
 
 ## Else If
-- The way you say "**otherwise**" to a computer program is by using the "**else  if**" or, in Python, "**elif**" keyword.
+- The way you say "**otherwise if...**" to a computer program is by using the "**else  if**" or, in Python, "**elif**" keyword.
 
 ## Else
-- The way you say "**if  anything else**" to a computer program is by using the "**else**" keyword.
+- The way you say "**if  anything else...**" to a computer program is by using the "**else**" keyword.
 
 <pre>
 CONDITIONALS
