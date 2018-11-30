@@ -165,7 +165,7 @@ print sum(93943,542434)
 ## Return Value
 - A blender could just blend() an apple but often you want it to blend() the apple and then return the fruit smoothie. The smoothie would be the **return value** of the blend() function. The blend() **function  returns** an apple **smoothie**.
 
-# Conditionals(Flow control) (Flow control)
+# Conditionals(Flow control)
 ___
 - Perhaps you only want to blend() an apple under **certain conditions**. Perhaps you only want to blend() the apple if the apple has already been diced. To create conditions in a program you use **Conditional Statements**.
 
