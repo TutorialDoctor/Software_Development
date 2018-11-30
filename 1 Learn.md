@@ -209,7 +209,7 @@ ___
 
 *"While seconds is less than 10"*
 
-##For 
+## For 
 - A For Loop is like saying, "**Until**...." The computer will do something "until" a condition is met.
 
 - You might say, "Blend the apple until ten seconds has passed."
