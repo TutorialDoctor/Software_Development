@@ -37,7 +37,7 @@ Give the player a clear **objective**/goal with **obstacles** to prevent them fr
 
 - Weaknesses and Exploitation
     - Enemies can't see you in shadows so stay in the shadows
-    - If you time it right, you can run past the traps
+    - If you time it right, you can run pass the traps
     - The big boss weak point is the eye
 
 - Defense and Offense
