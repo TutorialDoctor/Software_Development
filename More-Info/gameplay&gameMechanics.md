@@ -1,6 +1,6 @@
 # O.O.R.W.E.D.O
 
-When you make a game, you want it to be cun to play. You also want it to have replay value. I have creaed a simple procedure for figuring out the gameplay and game mechanics of your game. We will remember this procedure with the acronym, OORWEDO (sounds like "or we do").
+When you make a game, you want it to be fun to play. You also want it to have replay value. I have creaed a simple procedure for figuring out the gameplay and game mechanics of your game. We will remember this procedure with the acronym, OORWEDO (sounds like "or we do").
 
 - Objective
 - Obstacles
