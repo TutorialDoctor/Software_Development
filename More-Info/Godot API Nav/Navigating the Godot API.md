@@ -8,7 +8,7 @@ This is a quick start guide.
 
 ## Create a node
 
-Everything in Godot, is an object. So naturally the **Object Class** is the super-class of all other objects in Godot. Sub-objects like buttons, images, sounds , 3d models etc. are all derived from the Object Class.
+Everything in Godot is an object. So naturally the **Object Class** is the super-class of all other objects in Godot. Sub-objects like buttons, images, sounds , 3d models etc. are all derived from the Object Class.
 
 The first sub-class of the Object Class is the **Node Class**. The Node class is the base class for all elements in your scene/level. 
 
